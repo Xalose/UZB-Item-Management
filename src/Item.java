@@ -23,4 +23,84 @@ public class Item {
         this.trait=trait;
         this.lore=lore;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public String getRarity() {
+        return rarity;
+    }
+
+    public int getLevel() {
+        return level;
+    }
+
+    public String getOrigin() {
+        return origin;
+    }
+
+    public Stat[] getPrimaryStats() {
+        return primaryStats;
+    }
+
+    public Stat[] getBonusStats() {
+        return bonusStats;
+    }
+
+    public Stat[] getUtilityStats() {
+        return utilityStats;
+    }
+
+    public String getTrait() {
+        return trait;
+    }
+
+    public String getLore() {
+        return lore;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public void setRarity(String rarity) {
+        this.rarity = rarity;
+    }
+
+    public void setLevel(int level) {
+        this.level = level;
+    }
+
+    public void setOrigin(String origin) {
+        this.origin = origin;
+    }
+
+    public void setPrimaryStats(Stat[] primaryStats) {
+        this.primaryStats = primaryStats;
+    }
+
+    public void setBonusStats(Stat[] bonusStats) {
+        this.bonusStats = bonusStats;
+    }
+
+    public void setUtilityStats(Stat[] utilityStats) {
+        this.utilityStats = utilityStats;
+    }
+
+    public void setTrait(String trait) {
+        this.trait = trait;
+    }
+
+    public void setLore(String lore) {
+        this.lore = lore;
+    }
 }

@@ -1,3 +1,5 @@
+
+
 Chipped Sword
 Common Sword - Level 1
 Starter Set
@@ -8,7 +10,7 @@ Looks like it will give only splinters.
 
 
 Rusted Dagger
-Common Dagger - Level 1
+Common Dagger -  Level 1
 Starter Set
 10 Damage
 +20% Attack Speed

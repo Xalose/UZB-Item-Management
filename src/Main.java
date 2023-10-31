@@ -18,6 +18,14 @@ public class Main {
             if(itemRaw.nextLine().isEmpty()){
                 if(itemRaw.nextLine().isEmpty()){
                     itemArray.add(new Item());
+                    currentLine = itemRaw.nextLine();
+                    itemArray.getLast().setName(currentLine);
+                    currentLine = itemRaw.nextLine();
+                    itemArray.getLast().setRarity(currentLine.substring(0,currentLine.indexOf(" ")));
+                    currentLine = currentLine.substring(currentLine.indexOf(" "));
+                    itemArray.getLast().setType(currentLine.substring(0,currentLine.indexOf(" ")));
+                    currentLine = currentLine.substring(currentLine.indexOf("-"));
+                    itemArray.getLast().setLevel(Integer.parseInt(currentLine.substring(9)));
                 }
             }
         }
