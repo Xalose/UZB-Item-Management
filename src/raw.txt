@@ -1,14 +1,3 @@
-N.E.R.O Core
-Utility Item - Tier 1
-Deterra - Mirah
-
-0 Memory Cells
-
-Right-click to access the Player menu. Shift-right-click to summon N.E.R.O.
-
-A light orb coated in reflective silvery scales. It radiates a soft azure glow.
-
-
 Chipped Sword
 Common Sword - Level 1
 Starter Set
@@ -407,13 +396,6 @@ Completely by accident, it contains no consonants.
 +10% Recovery
 
 
-Unrefined Lodestone Crate
-Legendary Item
-Deterran Overworld - Pampas
-
-Unrefined lodestone is normally held in highly pressurized steel boxes, sealed tightly shut in order to prevent leaks. As seen by this faintly glowing wooden barrel, many smugglers soon took advantage of this procedure.
-
-
 Coils of the Crown
 Legendary Helmet - Level 1
 Deterran Overworld - Geopolis
@@ -549,18 +531,6 @@ And so, it shall begin. Vessels to be forged. Vessels for the future-for my hope
 +10% Destroying
 
 
-Deepest Delvings
-Lodestone Fuel Container
-Godly Item
-Deepest Delvings
-
-Changing energized lodestone to raw power is a dangerous process. Fortunately, the energy inside this can has long since been stabilized.
-
-Guaranteed drop from Deepest Delvings that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 and the previous lantern are used to purchase the Lodestone-Infused Beacon from Moagle)
-
-
 Earthbrine’s Drillblade
 Rare Sword - Level 1
 Deepest Delvings
@@ -635,35 +605,6 @@ Deepest Delvings
 An enterprising jewelist once decided to put carved lodestone gems in rings. She soon regretted it after seeing for herself its conductive properties.
 
 +7% Destroying
-
-Overgrown Monument
-Encrusted Slab
-Godly Item
-Overgrown Monument
-
-Flowers bloom upon it-a reminder of both great beauty and greater failure.
-
-Guaranteed drop from Overgrown Monument that can be used to forge all gear found in the sanctum, including its Godly items. Is dropped at greater quantities in higher tiers and the Unbound variant.
-
-
-Reality Essence
-Godly Item
-Unbound Sanctums
-
-I do not think myself innocent.  Blood coats my hands and drips down; I drown in it, but I still walk that path all the same.
-
-Guaranteed drop from Unbound Sanctums that can be used to forge Godly items at Luthan.
-
-
-Primal Taproots
-Mythical Enhancement - Level 1
-Overgrown Monument
-
-+9% Health Regen
-
-Jackkoh embraced the power, feeling a fathomless newfound strength run through him. Though he believed he could wield it to save them, it would be himself that would be reduced to a tool in the end.
-
-+15% Recovery
 
 
 Shaman’s Necklace
@@ -855,15 +796,6 @@ The smallest of saplings can grow into the mightiest of trees.
 +8% Bracing
 
 
-Overgrown Idol
-Legendary Item
-Overgrown Monument ++
-
-Its jeweled eyes glitter with a strange light.
-
-Used to upgrade Shaman’s Stormcaller and Jungle’s Fury into Jackkoh’s Stormcaller and Thrashvine’s Fury.
-
-
 Thrashvine’s Fury
 Legendary Bow - Level 5
 Overgrown Monument - Crafted
@@ -1009,16 +941,6 @@ Power refreshes. And then it leaves you craving more.
 +10% Bracing
 
 
-Valkard (R2)
-Overworld
-Snowstorm Enhancement
-Common Enhancement - Level 2
-Valkard Overworld
-+20% Raw Statistics to item
-
-You’re not sure how to use it. Perhaps someone else does?
-
-
 Snow Cap
 Common Helmet - Level 2
 Valkard Overworld
@@ -1097,38 +1019,6 @@ Valkard Overworld
 +30% Spell Damage
 
 This horn’s been kept in good condition. It’s standard issue for inventive troops found expendable.
-
-
-The Last Command
-Enchanted Firewood Branch
-Godly Item
-The Last Command
-
-Even in the most frigid cold, we still live on.
-
-Guaranteed drop from Factory of Flesh and Soul that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to purchase the Remnants of Warmth.)
-
-
-Remnants of Warmth
-Godly Artifact
-The Last Command
-
-Hearth’s Healing
-Multiplies total Health Regen and Healing by 4/3 when not attacked for 25 seconds.
-
-The land was not always like this. Once, the fire of hope still burned in our hearts.
-
-
-Frozen Cinders
-Rare Enhancement - Level 2
-The Last Command
-+25% Raw Statistics to item
-
-The Sage gazed back a final time at the ruins of his creation. He would never make that mistake again.
-
-+1% Bracing
 
 
 Homeland
@@ -1285,18 +1175,6 @@ It is too late. The land dies, and I have lost.
 +7% Bracing
 
 
-Factory of Flesh and Soul
-Corrupted Nexus
-Mythical Enhancement - Level 2
-Factory of Flesh and Soul
-
-+6% Attack Speed
-
-For the first time in so long, the  machine experienced what could almost be described as fear. What had been done here?
-
--9% Travel Spell Cost
-
-
 Sacrificial Dagger
 Rare Dagger - Level 2
 Factory of Flesh and Soul
@@ -1375,15 +1253,6 @@ Factory of Flesh and Soul +
 The cloth never remained white for long.
 
 +9% Bracing
-
-
-Bloodstained Shard
-Legendary Item
-Factory of Flesh and Soul ++
-
-Each day, knives were thrown away by the dozens, made blunt and then shattered by the frequency of their usage.
-
-Used to upgrade Sacrificial Knife, Knight’s Halberd, and Spirit’s Judgement to Bloodmage’s Dagger, Forsaken Halberd, and Inquisitor’s Judgement.
 
 
 Inquisitor’s Judgement
@@ -1525,62 +1394,6 @@ They wanted to forge a power beyond their imagination…and they succeeded.
 +100% Grace
 -90% Recovery
 -20% Bracing
-
-
-Ashkari (R3)
-Overworld
-Sandstorm Enhancement
-Common Enhancement - Level 3
-Ashkari Overworld
-+20% Raw Statistics to item
-
-Channel the power of the desert into your item.
-
-
-Empire’s End
-Long-Lost Tablet
-Godly Item
-Empire’s End
-
-It’s covered in indiscernible glyphs. The symbols have been weathered by wind and sand.
-
-Guaranteed drop from Empire’s End that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to purchase the Winds of Ixtellir.)
-
-
-Winds of Ixtellir
-Godly Artifact
-Empire’s End
-
-
-Feather Falling
-Nullify all fall damage.
-
-Only in the howl of the sandstorms does the empire still stand.
-
-
-Buried Scarab
-Rare Enhancement - Level 3
-Empire’s End
-+25% Raw Statistics to item
-
-Once, reality itself knelt before the might of the Ashkar Pharaohs.
-Now, all that they rule are sand and bones.
-
-+1% Fortune
-
-
-Metaphysical Labyrinth
-Worldshaper’s Remembrance
-Mythical Enhancement - Level 3
-Metaphysical Labyrinth
-
-+4% Walk Speed
-
-Tyrael screamed as his strength left him. How had he let such a thing happen? How had he failed after so long?
-
-+10% Travel Speed
 
 
 Ixtel’s Fall
@@ -1732,70 +1545,6 @@ Yet the miracles that he performed now were overshadowed all the same by the fea
 -5% Grace
 
 
-Warped Signet
-Godly Item
-Metaphysical Labyrinth
-
-Here, loneliness consumes all. All that is company is the howl of the wind against the sands-echoing a dream of what could have been.
-
-Guaranteed drop from Metaphysical Labyrinth that can be used to forge all gear found in the sanctum, including its Godly items. Is dropped at greater quantities in higher tiers and the Unbound variant.
-
-
-Heluxenn (R4)
-Overworld
-Whirlpool Enhancement
-Common Enhancement - Level 4
-Heluxenn Overworld
-+20% Raw Statistics to item
-
-Channel the power of the seas into your item.
-
-
-R4 Dungeon
-Pride of Llugeas
-Godly Item
-R4 Dungeon
-
-A small shard, worn down yet still aglow with a prismatic light.
-
-Guaranteed drop from the R4 Dungeon that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to upgrade the Heart of the Sea to the Jewel of Heliux.)
-
-
-Eye of Heliux
-Godly Artifact
-R4 Dungeon
-
-
-Blessing of the Ocean
-Breathe, and move much faster, underwater.
-
-The seas are Their domain. And so they are yours as well.
-
-
-Oceanic Pearl
-Rare Enhancement - Level 4
-R4 Dungeon
-+25% Raw Statistics to item
-
-Even Azuras’ splendor was nothing compared to the glory of the old dynasty. A sight now only seen by the drowned.
-
-+1% Grace
-
-
-Temple of the Forgotten God
-Broken Conduit
-Mythical Enhancement - Level 4
-Temple of the Forgotten God
-
-+6 Wisdom
-
-Blasphemy? Yaemma knew the old codes could not be relied upon any longer. In their new life, Heliux had given them a new purpose as well.
-
-+15% Recovery
-
-
 Alter
 Godly Chestplate - Level 9
 Temple of the Forgotten God +
@@ -1831,26 +1580,6 @@ Nearly every aspect of their former self was stripped away and remade. Only veng
 +12% Grace
 
 
-Ever-Shifting Idol
-Godly Item
-Temple of the Forgotten God
-
-The light of Heliux will always shine, whether in a familiar or foreign form. The Forgotten God remembers.
-
-Guaranteed drop from Temple of the Forgotten God that can be used to forge all gear found in the sanctum, including its Godly items. Is dropped at greater quantities in higher tiers and the Unbound variant.
-
-
-R4 Endless Content (Transformed Tides?)
-The End (R5)
-Overworld
-Ender Enhancement
-Common Enhancement - Level 5
-End Overworld
-+20% Raw Statistics to item
-
-Channel the power of the Void into your item.
-
-
 Deathly Touch
 Rare Scythe - Level 5
 End Overworld
@@ -1866,39 +1595,6 @@ Damage over time you deal is tripled.
 Death does not stop. It continues to hunt, wait, and ruin.
 
 +11% Destroying
-
-
-R5 Dungeon
-Broken Planar Key
-Godly Item
-R5 Dungeon
-
-An old artifact, worn down from use and covered in fractures.
-
-Guaranteed drop from the R5 Dungeon that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to craft the Planar Nexus.)
-
-
-Planar Nexus
-Godly Ender Pearl
-R5 Dungeon
-
-
-Right Click to access the fast travel menu when outside of combat.
-1 minute cooldown.
-
-The Emperor demanded no less than perfection. And so began both our rise and downfall.
-
-
-Voidic Crystal
-Rare Enhancement - Level 5
-R5 Dungeon
-+25% Raw Statistics to item
-
-The gods have long gone in their full might-it is only in the tiniest traces that their memory remains.
-
--1% Travel Spell Cost
 
 
 Grove’s Hymn
@@ -2011,19 +1707,6 @@ Nullifies the debuffs from one stack of Aspect’s Touch, or two pieces of gear 
 In the end, the very products of the god’s existence were turned against it to quench its power. The traces that remain can still be used for that purpose-if you can manage to harness them in the first place.
 
 
-Note: Eternal Emptiness is going to probably be the only item to ever have Void’s Suppression.
-Sepulchre of the Sentinel
-Manifest Fervor
-Mythical Enhancement - Level 5
-Sepulchre of the Sentinel
-
-+6 Resilience
-
-Xaithos smiled as he stepped over the corpse and into the beckoning light beyond. At last, change was in his hands. At last, he would need to bow no longer.
-
-+10% Bracing
-
-
 Form
 Godly Spear - Level 9
 Sepulchre of the Sentinel +
@@ -2097,50 +1780,6 @@ Within, he was remade. Flesh gave way to stone and blood gave way to power.
 +10% Bracing
 
 
-Attara (R6)
-Overworld
-Mechanical Enhancement
-Rare Enhancement - Level 6
-Attarn Overworld
-+20% Raw Statistics to item
-
-Insert Lore Here
-
-
-R6 Dungeon
-Discarded Clockwork Cog
-Godly Item
-The Ascendant Foundry
-
-It’s covered in a thin layer of rust.
-
-Guaranteed drop from the R6 Dungeon that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to craft the Attaran Mechanical Shulker.)
-
-
-Attaran Mechanical Shulker
-Godly Container
-The Ascendant Foundry
-
-
-Right Click to open the container.
-Shift and Right Click to switch layers.
-135 storage slots.
-
-The Forge was revolutionized in more ways than just power. Under Vanor’s watch, even the most radical of ideas were put into motion.
-
-
-Clockwork Item
-Rare Enhancement - Level 6
-The Ascendant Foundry
-+25% Raw Statistics to item
-
-Insert Lore Here
-
-+2% Bracing
-
-
 Uzi-B
 Legendary Crossbow - Level 6
 The Ascendant Foundry
@@ -2155,19 +1794,6 @@ A metal barrel with a long handle attached. It has a warning label:
 “Caution: Point Only at Enemy Eyes.”
 
 +13% Destroying
-
-
-Warlock’s Laboratory
-Calamity Core
-Mythical Enhancement - Level 6
-Warlock’s Laboratory
-
-+6 Dexterity
-
-Teirre closed her eyes as the machine, charged with godly power, whirred to life.
-Though shame filled her immediately afterwards, she knew she must continue on.
-
-+10% Destroying
 
 
 Arcannon
@@ -2201,16 +1827,6 @@ Insert lore here
 
 +15% Fortune
 +10% Destroying
-
-
-Nihilan (R7)
-Overworld
-Burning Enhancement
-Common Enhancement - Level 7
-Nihilan Overworld
-+20% Raw Statistics to item
-
-Channel the power of flames into your item.
 
 
 Night-Ash Hood
@@ -2429,61 +2045,6 @@ Nihilan Overworld - Unarmed
 An insignia taken from a destroyed catapult, as a souvenir of that time you destroyed an entire army’s armory.
 
 +15% Bracing
-
-
-Legion’s Remnants
-Crystallized Flames
-Godly Item
-Legion’s Remnants
-
-The flames within seem to still glow with the faintest trace of heat.
-
-Guaranteed drop from Legion’s Remnants that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to craft the Firstflame’s Boon.)
-
-
-Firstflame’s Boon
-Godly Artifact
-Legion’s Remnants
-
-
-Fire Resistance
-Gain immunity to natural lava and fire.
-
-From fire and light we were shaped to being.
-
-
-Militant Item
-Rare Enhancement - Level 7
-Legion’s Remnants
-+25% Raw Statistics to item
-
-Even with the army lost, Octavius remained strong.
-
-+2% Bracing
-
-
-Oracle’s Exilement
-Oracle’s Gift
-Legendary Item
-Oracle’s Exilement - Desolation
-
-Power corrupts. Time waits for no one. All things must come to an end.
-I’ve never found such generalizations to be accurate.
-
-Granted the first time the player defeats Desolation, the Thrice-Torn Entity. Used to purchase or exchange Omen, Harbinger, Portent, Premonition, and Augury.
-
-
-Crystal Shard
-Mythical Enhancement - Level 7
-Oracle’s Exilement
-
-+6 Instinct
-
-Desol cast down the crystal ball and released the power malignant within.
-
-+15% Fortune
 
 
 Call of the Void
@@ -2874,46 +2435,6 @@ You are the force of change. You will wreak yet more calamity upon this world, w
 +35% Fortune
 
 
-Ancient Mechanism
-Godly Item
-Oracle’s Exilement
-
-The machines I made to channel its power failed, rusting away and breaking under its influence. Yet I could not.
-
-Guaranteed drop from Oracle’s Exilement that can be used to forge all gear found in the sanctum, including its Godly items. Is dropped at greater quantities in higher tiers and the Unbound variant.
-
-Regelen (R8)
-Overworld
-Glorious Enhancement
-Common Enhancement - Level 8
-Regelen Overworld
-+20% Raw Statistics to item
-
-Insert Lore Here
-
-
-The Skybound Sea
-Fractured Upgrade Module
-Godly Item
-The Skybound Sea
-
-A roll of blueprints is stuffed inside. It’s too bad that they’ve evidently been torn apart.
-
-Guaranteed drop from The Skybound Sea that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to upgrade the Seraph Glider to the Archangel Glider.)
-
-
-Tempestuous Item
-Rare Enhancement - Level 8
-The Skybound Sea
-+25% Raw Statistics to item
-
-Lorem ipsum dolor sit amet
-
-+3% Travel Speed
-
-
 Sky Captain’s Bicorn
 Legendary Helmet - Level 8
 The Skybound Sea
@@ -3029,19 +2550,6 @@ The Skybound Sea
 And so he set out, the world trembling beneath his steps. A crown upon his head, a scepter in his hand, and a deck beneath his boots.
 
 +11% Fortune
-+10% Grace
-
-
-Edge of Eternity
-Quasar Discharge
-Mythical Enhancement - Level 2
-Edge of Eternity
-
--4% Spell Cost
-
-Beyond the well and the fraying boundary, Ether saw all eternity.
-There, salvation laid.
-
 +10% Grace
 
 
@@ -3194,60 +2702,6 @@ A doorway opens to the black beyond.
 
 +50% Jump Height
 -10% Grace
-
-
-Void Splinter
-Godly Item
-Edge of Eternity
-
-At the edges of the world, the boundary between ours and that of the divine frays. As a god, I must embrace that light beyond.
-
-Guaranteed drop from Edge of Eternity that can be used to forge all gear found in the sanctum, including its Godly items. Is dropped at greater quantities in higher tiers and the Unbound variant.
-
-
-
-The Capital (R9)
-Overworld
-Royal Enhancement
-Common Enhancement - Level 9
-The Capital
-+20% Raw Statistics to item
-
-Insert Lore Here
-
-
-Deity’s Downfall
-Monarch’s Brand
-Godly Item
-Deity’s Downfall
-
-An emblem bearing the mark of the Church.
-
-Guaranteed drop from Deity’s Downfall that can be used to forge all gear found in the dungeon, including its Godly items.
-
-(20 are used to buy the Shard of the Crown.)
-
-
-Shard of the Crown
-Godly Artifact
-Deity’s Downfall
-
-
-Divine Intervention
-When you fall to 0 health, recover with 30% health and 3 seconds of invincibility.
-15 minute cooldown.
-
-Even now, a remnant of its power still remains.
-
-
-Divine Item
-Rare Enhancement - Level 9
-Deity’s Downfall
-+25% Raw Statistics to item
-
-Insert Lore Here
-
-+3% Grace
 
 
 God Eater
@@ -3432,18 +2886,6 @@ The ambitious Regelese were quick to assist in the conquest of the Realm. Under 
 +10% Grace
 
 
-Bastion of the Divine
-Shattered Spearhead
-Mythical Enhancement - Level 9
-Bastion of the Divine
-
-+6 Strength
-
-The Overseer watched their creation suddenly burst with newfound power. A new beginning had come for the Realm.
-
-+10% Travel Speed
-
-
 Godbane Greatsword
 Mythical Sword - Level 9
 Bastion of the Divine
@@ -3598,24 +3040,6 @@ A hub of energy was formed like nothing else ever seen before. With the power th
 -15% Recovery
 
 
-Long-Forgotten Parchment
-Godly Item
-Bastion of the Divine
-
-The past shines light on the potential of the future. That is why we must hide it away.
-
-Guaranteed drop from Bastion of the Divine that can be used to forge all gear found in the sanctum, including its Godly items. Is dropped at greater quantities in the Unbound variant.
-
-
-Holy Emblem
-Mythical Item
-Bastion of the Divine
-
-And so, judgement came and the traitors were cast away. Of the three, only one stands now.
-
-Bought with five Long-Forgotten Parchments or found inside the Sanctum and used to change items to their Holy variant. Riftmaker to Godbane Greatsword, Arcannon to Valmen’s Wrath, Mecha Boots to Gears of the Usurper, and Seeker’s Broken Mask to Energizing Flame.
-
-
 Devarien’s Bolt
 Mythical Crossbow - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3767,32 +3191,6 @@ Bastion of the Divine - Forbidden Ward
 
 +10% Destroying
 +10% Travel Speed
-
-
-Postgame
-Worldly Foundations
-All-Seeing-Oculus
-Godly Item
-Worldly Foundations
-
-We must never learn of the greater picture. Ignorance draws bliss, and understanding only beckons greed and desire.
-
-Guaranteed drop from Worldly Foundations that can be used to forge all gear found in the sanctum, including its Godly items.
-
-
-Pars Memoria
-Mythical Charm - Level 10
-Worldly Foundations
-
-+20% Mana Regen
-+20% Health Regen
-+20% Healing
-+20% Spell Damage
-+20% Walk Speed
-
-A broken mechanical spider, its legs engraved with tiny jewels. Although it’s evidently nonfunctional, a faint trail of power..and memories…emanates from it all the same.
-
--19% Travel Spell Cost
 
 
 Otherworld

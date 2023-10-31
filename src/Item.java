@@ -10,6 +10,7 @@ public class Item {
     private String trait;
     private String lore;
 
+    public Item(){}
     public Item(String name, String type, String rarity, int level, String origin, Stat[] primaryStats, Stat[] bonusStats, Stat[] utilityStats, String trait, String lore){
         this.name=name;
         this.type=type;
