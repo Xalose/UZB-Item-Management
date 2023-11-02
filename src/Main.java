@@ -12,20 +12,47 @@ public class Main {
         Stack<String> propertyStack = new Stack<String>();
         ArrayList<Item> itemArray = new ArrayList<>();
         String currentLine = "";
-        int propertyCounter = 0;
+        Item currentItem;
+        int step=0;
 
         while (itemRaw.hasNextLine()){
-            if(itemRaw.nextLine().isEmpty()){
-                if(itemRaw.nextLine().isEmpty()){
-                    itemArray.add(new Item());
-                    currentLine = itemRaw.nextLine();
-                    itemArray.getLast().setName(currentLine);
-                    currentLine = itemRaw.nextLine();
-                    itemArray.getLast().setRarity(currentLine.substring(0,currentLine.indexOf(" ")));
-                    currentLine = currentLine.substring(currentLine.indexOf(" "));
-                    itemArray.getLast().setType(currentLine.substring(0,currentLine.indexOf(" ")));
-                    currentLine = currentLine.substring(currentLine.indexOf("-"));
-                    itemArray.getLast().setLevel(Integer.parseInt(currentLine.substring(9)));
+            currentItem=itemArray.getLast();
+            currentLine=itemRaw.nextLine();
+            if (currentLine.isEmpty()){
+                step++;
+            } else {
+                switch (step) {
+                    case 1:
+                        // item name
+                        currentItem.setName(currentLine);
+                        break;
+                    case 2:
+                        // item rarity
+                        currentItem.setRarity(currentLine.substring(0,currentLine.indexOf(" ")));
+                        currentLine = currentLine.substring(currentLine.indexOf(" "));
+                        // item type
+                        currentItem.setType(currentLine.substring(0,currentLine.indexOf(" ")));
+                        currentLine = currentLine.substring(currentLine.indexOf("-"));
+                        // item level
+                        currentItem.setLevel(Integer.parseInt(currentLine.substring(9)));
+                        break;
+                    case 3:
+                        // item origin
+                        currentItem.setOrigin(currentLine);
+                        break;
+                    case 4:
+                        // primary stat 1
+                        currentItem.prim
+                    case 6:
+                        // item lore
+                        if (currentItem.getLore().isEmpty()){
+                            currentItem.setLore(currentLine);
+                        } else {
+                            currentItem.appendLore(currentLine);
+                        }
+                        break;
+                    case 7:
+
                 }
             }
         }

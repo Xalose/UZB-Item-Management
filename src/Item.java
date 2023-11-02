@@ -10,7 +10,11 @@ public class Item {
     private String trait;
     private String lore;
 
-    public Item(){}
+    public Item(){
+        primaryStats=new Stat[2];
+        bonusStats=new Stat[3];
+        utilityStats=new Stat[3];
+    }
     public Item(String name, String type, String rarity, int level, String origin, Stat[] primaryStats, Stat[] bonusStats, Stat[] utilityStats, String trait, String lore){
         this.name=name;
         this.type=type;
@@ -102,5 +106,17 @@ public class Item {
 
     public void setLore(String lore) {
         this.lore = lore;
+    }
+
+    public void insertPrimaryStats(String name, int intValue, int pos){
+        primaryStats[pos] = new Stat(name,intValue);
+    }
+
+    public void insertPrimaryStats(String name, float floatValue, int pos){
+        primaryStats[pos] = new Stat(name,floatValue);
+    }
+
+    public void appendLore(String lore){
+        this.lore=this.lore+lore;
     }
 }
