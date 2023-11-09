@@ -5,15 +5,18 @@ public class Item {
     private int level;
     private String origin;
     private Stat[] primaryStats;
+    private int primaryLast;
     private Stat[] bonusStats;
+    private int bonusLast;
     private Stat[] utilityStats;
+    private int utilityLast;
     private String trait;
     private String lore;
 
     public Item(){
         primaryStats=new Stat[2];
-        bonusStats=new Stat[3];
-        utilityStats=new Stat[3];
+        bonusStats=new Stat[8];
+        utilityStats=new Stat[5];
     }
     public Item(String name, String type, String rarity, int level, String origin, Stat[] primaryStats, Stat[] bonusStats, Stat[] utilityStats, String trait, String lore){
         this.name=name;
@@ -108,12 +111,34 @@ public class Item {
         this.lore = lore;
     }
 
-    public void insertPrimaryStats(String name, int intValue, int pos){
-        primaryStats[pos] = new Stat(name,intValue);
+    public void insertPrimaryStats(int intValue, String name){
+        primaryStats[primaryLast] = new Stat(intValue,name);
+        primaryLast++;
     }
 
-    public void insertPrimaryStats(String name, float floatValue, int pos){
-        primaryStats[pos] = new Stat(name,floatValue);
+    public void insertPrimaryStats(float floatValue, String name){
+        primaryStats[primaryLast] = new Stat(floatValue,name);
+        primaryLast++;
+    }
+
+    public void insertBonusStats(int intValue, String name){
+        bonusStats[bonusLast] = new Stat(intValue,name);
+        bonusLast++;
+    }
+
+    public void insertBonusStats( float floatValue, String name){
+        bonusStats[bonusLast] = new Stat(floatValue, name);
+        bonusLast++;
+    }
+
+    public void insertUtilityStats(int intValue, String name){
+        utilityStats[utilityLast] = new Stat(intValue,name);
+        utilityLast++;
+    }
+
+    public void insertUtilityStats(float floatValue, String name){
+        utilityStats[utilityLast] = new Stat(floatValue, name);
+        utilityLast++;
     }
 
     public void appendLore(String lore){

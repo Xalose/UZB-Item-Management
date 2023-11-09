@@ -15,45 +15,35 @@ public class Main {
         Item currentItem;
         int step=0;
 
-        while (itemRaw.hasNextLine()){
-            currentItem=itemArray.getLast();
-            currentLine=itemRaw.nextLine();
-            if (currentLine.isEmpty()){
-                step++;
-            } else {
-                switch (step) {
-                    case 1:
-                        // item name
-                        currentItem.setName(currentLine);
-                        break;
-                    case 2:
-                        // item rarity
-                        currentItem.setRarity(currentLine.substring(0,currentLine.indexOf(" ")));
-                        currentLine = currentLine.substring(currentLine.indexOf(" "));
-                        // item type
-                        currentItem.setType(currentLine.substring(0,currentLine.indexOf(" ")));
-                        currentLine = currentLine.substring(currentLine.indexOf("-"));
-                        // item level
-                        currentItem.setLevel(Integer.parseInt(currentLine.substring(9)));
-                        break;
-                    case 3:
-                        // item origin
-                        currentItem.setOrigin(currentLine);
-                        break;
-                    case 4:
-                        // primary stat 1
-                        currentItem.prim
-                    case 6:
-                        // item lore
-                        if (currentItem.getLore().isEmpty()){
-                            currentItem.setLore(currentLine);
-                        } else {
-                            currentItem.appendLore(currentLine);
-                        }
-                        break;
-                    case 7:
+        while (itemRaw.hasNextLine()) {
+            currentItem = new Item();
 
-                }
+            // item name
+            currentItem.setName(itemRaw.nextLine());
+
+            // item rarity
+            currentItem.setRarity(itemRaw.next());
+            // item type
+            currentItem.setType(itemRaw.next());
+            // item level
+            currentItem.setLevel(Integer.parseInt(itemRaw.next("/^[1-9][0-9]*$/")));
+
+            // item origin
+            currentItem.setOrigin(itemRaw.nextLine());
+
+            // primary stat 1
+            currentItem.insertPrimaryStats(Integer.parseInt(itemRaw.next()));
+
+            currentLine = itemRaw.nextLine();
+
+            // primary stat 2
+            currentItem.insertPrimaryStats(Float.parseFloat(currentLine.substring(0, currentLine.indexOf(" ") - 1)), currentLine.substring(currentLine.indexOf(" ") + 1));
+
+            // item lore
+            if (currentItem.getLore().isEmpty()) {
+                currentItem.setLore(currentLine);
+            } else {
+                currentItem.appendLore(currentLine);
             }
         }
     }
