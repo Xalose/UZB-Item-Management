@@ -3,7 +3,7 @@ Common Sword - Level 1
 Starter Set
 13 Damage
 
-It’s made out of pure wood.
+It's made out of pure wood.
 Looks like it will give only splinters.
 
 
@@ -13,7 +13,7 @@ Starter Set
 10 Damage
 +20% Attack Speed
 
-It’s a little rusty, but it will do the job.
+It's a little rusty, but it will do the job.
 
 
 Stone-Cut Wand
@@ -23,7 +23,7 @@ Starter Set
 
 +30% Spell Damage
 
-It’s made out of pure stone, but it’s as light as a feather.
+It's made out of pure stone, but it's as light as a feather.
 Seems like an anomaly.
 
 
@@ -45,8 +45,8 @@ Starter Set
 When played:
 +20% Health Regen
 
-Most of the wood’s rotted away by now.
-You can still pretend that the strings aren’t broken, though.
+Most of the wood's rotted away by now.
+You can still pretend that the strings aren't broken, though.
 
 
 Typical Hat
@@ -56,7 +56,7 @@ Deterran Overworld
 
 +17% Mana Regen
 
-Commonly worn by pampa farmers. It’s quite good for keeping the sun out of your eyes.
+Commonly worn by pampa farmers. It's quite good for keeping the sun out of your eyes.
 
 
 Typical Tunic
@@ -109,7 +109,7 @@ Deterran Overworld
 
 +5% Walk Speed
 
-…It’s lightweight, but it feels like it’d break if you tried to hit a bush with it.
+…It's lightweight, but it feels like it'd break if you tried to hit a bush with it.
 
 +20% Travel Speed
 -10% Bracing
@@ -125,7 +125,7 @@ Deterran Overworld
 +30% Health Regen
 +5% Walk Speed
 
-A Geopolis folktale tells of a blacksmith’s attempt to create the most deadly sword known to man, forging a blade completely made from magically infused unrefined lodestone. However, while drunk, he accidentally welded a frying pan onto the hilt instead.
+A Geopolis folktale tells of a blacksmith's attempt to create the most deadly sword known to man, forging a blade completely made from magically infused unrefined lodestone. However, while drunk, he accidentally welded a frying pan onto the hilt instead.
 
 +10% Recovery
 
@@ -153,7 +153,7 @@ Deterran Overworld
 
 Hewn from an ancient tree in the highest mountains.
 …
-Okay, fine, it’s just a regular stick.
+Okay, fine, it's just a regular stick.
 
 +7% Bracing
 
@@ -166,7 +166,7 @@ Deterran Overworld
 +20% Walk Speed
 -40% Main Attack Damage
 
-This longbow wasn’t cared for well, and now the string’s loose. On the plus side, it doesn’t take much effort to draw, but it also doesn’t have much force anymore.
+This longbow wasn't cared for well, and now the string's loose. On the plus side, it doesn't take much effort to draw, but it also doesn't have much force anymore.
 
 -6% Travel Spell Cost
 
@@ -186,7 +186,7 @@ This wooden stick, while nicely polished, seems to be missing the drums it goes 
 -8% Fortune
 
 
-Trainer’s Lance
+Trainer's Lance
 Uncommon Spear - Level 1
 Deterran Overworld
 9 Damage
@@ -194,7 +194,7 @@ Deterran Overworld
 +13 Instinct
 +25% Health Regen
 
-It’s a very excellent wooden replica of a spear. It’ll work as one, but no guarantees about how well.
+It's a very excellent wooden replica of a spear. It'll work as one, but no guarantees about how well.
 
 +7% Bracing
 
@@ -206,7 +206,7 @@ Deterran Overworld
 
 +20% Mana Regen
 
-You’re not sure what this is, but it works.
+You're not sure what this is, but it works.
 
 +5% Fortune
 -3% Travel Spell Cost
@@ -235,7 +235,7 @@ Deterran Overworld
 
 -10% Health Regen
 
-Somewhere, some blacksmith sold their apprentice’s first try at a sword as scrap metal. Now it’s here, for some reason.
+Somewhere, some blacksmith sold their apprentice's first try at a sword as scrap metal. Now it's here, for some reason.
 
 +10% Recovery
 
@@ -263,7 +263,7 @@ Deterran Overworld
 
 +35% Main Attack Damage
 
-Advertised to contain enough magical power to make warriors wearing it unstoppable in combat. In actuality, it’s just very uncomfortable.
+Advertised to contain enough magical power to make warriors wearing it unstoppable in combat. In actuality, it's just very uncomfortable.
 
 +7% Destroying
 
@@ -290,7 +290,7 @@ Deterran Overworld
 +10% Health Regen
 
 Inlaid with gold, these pants have also been enchanted to be supernaturally light.
-With everything put together, they’re really just well-made pants.
+With everything put together, they're really just well-made pants.
 
 +10% Fortune
 
@@ -318,7 +318,7 @@ Deterran Overworld - Geopolis
 +10% Main Attack Damage
 +10% Health Regen
 
-This tree has been here for centuries. It’s uncertain how it came to be so big.
+This tree has been here for centuries. It's uncertain how it came to be so big.
 
 +7% Bracing
 
@@ -345,7 +345,7 @@ Deterran Overworld
 +15% Lifesteal
 +15% Mana Steal
 
-Some poor farmer lost this at just the wrong time, and now you’re using it for bloodshed. How rude of you.
+Some poor farmer lost this at just the wrong time, and now you're using it for bloodshed. How rude of you.
 
 +20% Recovery
 -10% Fortune
@@ -385,7 +385,6 @@ Rare Script - Level 1
 Deterran Overworld
 8 Spell Damage
 
-
 When Played:
 +20% Attack Speed
 +20% Mana Regen
@@ -410,7 +409,7 @@ The Archon, like he swore to do, never razed the ziggurat. He simply built the n
 +7% Bracing
 
 
-Mother’s Defilement
+Mother's Defilement
 Legendary Chestplate - Level 1
 Deterran Overworld - The Mother Mountain
 20 Health
@@ -521,17 +520,16 @@ Unworldly Core
 Mythical Charm - Level 10
 Deterran Overworld - Mirah
 
-
 +120% Mana Regen
 
-My mistake can be fixed. I know it can-I must hope it will, for the sake of everything I’ve known.
+My mistake can be fixed. I know it can-I must hope it will, for the sake of everything I've known.
 And so, it shall begin. Vessels to be forged. Vessels for the future-for my hopes. Vessels to fix it all.
 
 +13% Bracing
 +10% Destroying
 
 
-Earthbrine’s Drillblade
+Earthbrine's Drillblade
 Rare Sword - Level 1
 Deepest Delvings
 11 Damage
@@ -552,7 +550,7 @@ Deepest Delvings
 
 +45% Mana Steal
 
-Buried so far below, they craved every memory of the surface with every rasping breath. The sun’s light-or perhaps, the invaders’ blood.
+Buried so far below, they craved every memory of the surface with every rasping breath. The sun's light-or perhaps, the invaders' blood.
 
 +7% Destroying
 
@@ -607,7 +605,7 @@ An enterprising jewelist once decided to put carved lodestone gems in rings. She
 +7% Destroying
 
 
-Shaman’s Necklace
+Shaman's Necklace
 Rare Jewelry - Level 1
 Overgrown Monument
 
@@ -619,7 +617,7 @@ Long-buried and even longer forgotten.
 +10% Fortune
 
 
-Ter’reka’s Ruin
+Ter'reka's Ruin
 Rare Chestplate - Level 1
 Overgrown Monument
 18 Health
@@ -631,7 +629,7 @@ Even stone sprouts life.
 +7% Grace
 
 
-Jungle’s Fury
+Jungle's Fury
 Rare Bow - Level 1
 Overgrown Monument
 4 Damage
@@ -645,7 +643,7 @@ Wrath of the most primordial form.
 +7% Destroying
 
 
-Shaman’s Stormcaller
+Shaman's Stormcaller
 Rare Staff - Level 1
 Overgrown Monument
 13 Damage
@@ -654,7 +652,7 @@ Overgrown Monument
 +10% Walk Speed
 -20% Hp
 
-Flowers bloom on fallen trees in the storm’s wake.
+Flowers bloom on fallen trees in the storm's wake.
 
 +7% Grace
 
@@ -710,7 +708,7 @@ Mages are proficient with this weapon and can use it for spellcasting.
 +20% Mana Regen
 +33% Spell Damage
 
-Though sorcery and iron tend to oppose, the strength of the jungle has managed to overtake the now-rusted steel of this Churchman’s blade all the same.
+Though sorcery and iron tend to oppose, the strength of the jungle has managed to overtake the now-rusted steel of this Churchman's blade all the same.
 
 -6% Travel Spell Cost
 
@@ -723,7 +721,7 @@ Overgrown Monument
 +2 Raw Spell Damage
 +10% Mana Steal
 
-Even great heights were no match for the Thrashvine’s hunger. Vine and root grappled and sank tendrils in stone and soil alike, extending its domain beyond the peaks.
+Even great heights were no match for the Thrashvine's hunger. Vine and root grappled and sank tendrils in stone and soil alike, extending its domain beyond the peaks.
 
 +7% Travel Speed
 
@@ -742,7 +740,7 @@ Cuttings of the Godroots turned out to be excellent materials for weaponsmithing
 +7% Bracing
 
 
-Sage’s Carvings
+Sage's Carvings
 Legendary Script - Level 1
 Overgrown Monument
 8 Damage
@@ -750,7 +748,7 @@ Overgrown Monument
 +27% Mana Regen
 +10% Hp
 
-While the jungle’s wrath turned all clay to dust, some of the Earthborn tribes found methods to carry their pleas across regardless. This bamboo rod, inscribed with runes, is proof of their genius.
+While the jungle's wrath turned all clay to dust, some of the Earthborn tribes found methods to carry their pleas across regardless. This bamboo rod, inscribed with runes, is proof of their genius.
 
 +10% Fortune
 
@@ -782,10 +780,7 @@ Though the blade of this vine-encrusted ceremonial greatsword shatters upon cont
 
 +7% Bracing
 
-Bought with 10 Encrusted Slabs and 1 Diamond Sigil at the Thrashvine Graveyard.
-
-
-Grove’s Blessing
+Grove's Blessing
 Legendary Charm - Level 3
 Overgrown Monument +
 
@@ -796,7 +791,7 @@ The smallest of saplings can grow into the mightiest of trees.
 +8% Bracing
 
 
-Thrashvine’s Fury
+Thrashvine's Fury
 Legendary Bow - Level 5
 Overgrown Monument - Crafted
 6 Damage
@@ -811,7 +806,7 @@ The Jungle never stops to rest.
 +11% Travel Speed
 
 
-Jackkoh’s Stormcaller
+Jackkoh's Stormcaller
 Legendary Staff - Level 5
 Overgrown Monument - Crafted
 41 Damage
@@ -839,7 +834,7 @@ Only those who still remain can thrive.
 +15% Destroying
 
 
-Seeker’s Broken Mask
+Seeker's Broken Mask
 Mythical Charm - Level 7
 Overgrown Monument +++
 
@@ -859,8 +854,8 @@ Overgrown Monument #
 81 Damage
 +35% Attack Speed
 
-Growth’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Growth's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +40% Walk Speed
 +60% Health Regen
@@ -875,8 +870,8 @@ Godly Conduit - Level 9
 Overgrown Monument #
 1 Damage
 
-Growth’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Growth's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +200 Main Attack Damage
 +130% Lifesteal
@@ -892,8 +887,8 @@ Godly Dagger - Level 9
 Overgrown Monument #
 150 Damage
 
-Growth’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Growth's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +400% Lifesteal
 +56% Mana Steal
@@ -910,8 +905,8 @@ Overgrown Monument #
 300 Damage
 -50% Attack Speed
 
-Growth’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Growth's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +50% Main Attack Damage
 +50% Health Regen
@@ -927,8 +922,8 @@ Godly Chestplate - Level 9
 Overgrown Monument #
 300 Health
 
-Growth’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Growth's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +125% Health Regen
 -30% Main Attack Damage
@@ -975,50 +970,50 @@ Valkard Overworld
 Keeps your toes warm.
 
 
-Infantry’s Sword
+Infantry's Sword
 Common Sword - Level 2
 Valkard Overworld
 16 Damage
 
-This sword’s been kept in good condition. It’s standard issue for strong troops found expendable.
+This sword's been kept in good condition. It's standard issue for strong troops found expendable.
 
 
-Scout’s Knife
+Scout's Knife
 Common Dagger - Level 2
 Valkard Overworld
 12 Damage
 +30% Attack Speed
 
-This knife’s been kept in good condition. It’s standard issue for swift troops found expendable.
+This knife's been kept in good condition. It's standard issue for swift troops found expendable.
 
 
-Archer’s Bow
+Archer's Bow
 Common Bow - Level 2
 Valkard Overworld
 17 Damage
 -10% Attack Speed
 
-This bow’s been kept in good condition. It’s standard issue for keen troops found expendable.
+This bow's been kept in good condition. It's standard issue for keen troops found expendable.
 
 
-Wizard’s Staff
+Wizard's Staff
 Common Wand - Level 2
 Valkard Overworld
 14 Damage
 
 +10% Spell Damage
 
-This staff’s been kept in good condition. It’s standard issue for studious troops found expendable.
+This staff's been kept in good condition. It's standard issue for studious troops found expendable.
 
 
-Commander’s Trumpet
+Commander's Trumpet
 Common Instrument - Level 2
 Valkard Overworld
 11 Damage
 
 +30% Spell Damage
 
-This horn’s been kept in good condition. It’s standard issue for inventive troops found expendable.
+This horn's been kept in good condition. It's standard issue for inventive troops found expendable.
 
 
 Homeland
@@ -1030,7 +1025,7 @@ The Last Command
 +15% Spell Damage
 -25% Walkspeed
 
-I’ll fight the storm with all my breath. I’ll stand alone against the winds.
+I'll fight the storm with all my breath. I'll stand alone against the winds.
 
 +7% Bracing
 
@@ -1043,7 +1038,7 @@ The Last Command
 +23 Resilience
 +10% Health Regen
 
-Even when alloyed and processed, simple iron links pale in comparison to a dragon’s hide.
+Even when alloyed and processed, simple iron links pale in comparison to a dragon's hide.
 
 +17% Bracing
 +10% Travel Spell Cost
@@ -1099,7 +1094,7 @@ The Last Command
 +30% Mana Steal
 +25% Spell Damage
 
-Only True Ice can quench the flames that burn within a dragon’s heart. Unfortunately for the smith who crafted this spear, however, the dragons in question had long since disappeared.
+Only True Ice can quench the flames that burn within a dragon's heart. Unfortunately for the smith who crafted this spear, however, the dragons in question had long since disappeared.
 
 +11% Fortune
 
@@ -1131,7 +1126,7 @@ Dragons were the mark of the Hearth Sage. Although many claimed that they repres
 +11% Recovery
 
 
-Aedelian’s Pursuit
+Aedelian's Pursuit
 Legendary Boots - Level 2
 The Last Command
 10 Health
@@ -1189,7 +1184,7 @@ Spill their blood and take their spirits.
 +11% Fortune
 
 
-Spirit’s Judgement
+Spirit's Judgement
 Rare Crossbow - Level 2
 Factory of Flesh and Soul
 14 Damage
@@ -1202,7 +1197,7 @@ The ones who had done this to them were the first to be consumed.
 +7% Grace
 
 
-Knight’s Halberd
+Knight's Halberd
 Rare Crossbow - Level 2
 Factory of Flesh and Soul
 11 Damage
@@ -1234,7 +1229,6 @@ Factory of Flesh and Soul +
 21 Damage
 +20% Attack Speed
 
-
 +45% Lifesteal
 
 They would never truly forget the atrocities they saw.
@@ -1242,7 +1236,7 @@ They would never truly forget the atrocities they saw.
 +14% Recovery
 
 
-Sacrifice’s Robes
+Sacrifice's Robes
 Legendary Helmet - Level 4
 Factory of Flesh and Soul +
 30 Health
@@ -1255,12 +1249,11 @@ The cloth never remained white for long.
 +9% Bracing
 
 
-Inquisitor’s Judgement
+Inquisitor's Judgement
 Legendary Crossbow - Level 6
 Factory of Flesh and Soul - Crafted
 31 Damage
 -10% Attack Speed
-
 
 +60% Spell Damage
 +15% Walk Speed
@@ -1270,7 +1263,7 @@ Not a single trace must remain. Not a single word must be whispered.
 +14% Recovery
 
 
-Bloodmage’s Dagger
+Bloodmage's Dagger
 Legendary Dagger - Level 6
 Factory of Flesh and Soul - Crafted
 70 Damage
@@ -1297,7 +1290,7 @@ They could not leave their past behind. For them, there would be no escape.
 -9% Travel Spell Cost
 
 
-Oridel’s Ambition
+Oridel's Ambition
 Mythical Charm - Level 8
 Factory of Flesh and Soul ++
 
@@ -1316,8 +1309,8 @@ Godly Bow - Level 9
 Factory of Flesh and Soul +++
 100 Damage
 
-Spirit’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Spirit's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +70% Spell Damage
 +150% Mana Steal
@@ -1332,8 +1325,8 @@ Godly Spear - Level 9
 Factory of Flesh and Soul +++
 1 Damage
 
-Spirit’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Spirit's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +300 Raw Spell Damage
 +80% Mana Steal
@@ -1349,8 +1342,8 @@ Factory of Flesh and Soul +++
 50 Damage
 +150% Attack Speed
 
-Spirit’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Spirit's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +34% Main Attack Damage
 +34% Mana Steal
@@ -1366,8 +1359,8 @@ Factory of Flesh and Soul +++
 81 Damage
 +50% Attack Speed
 
-Spirit’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Spirit's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +50% Main Attack Damage
 +50% Walk Speed
@@ -1384,8 +1377,8 @@ Godly Chestplate - Level 9
 Factory of Flesh and Soul +++
 50 Damage
 
-Spirit’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Spirit's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +85% Attack Speed
 
@@ -1396,7 +1389,7 @@ They wanted to forge a power beyond their imagination…and they succeeded.
 -20% Bracing
 
 
-Ixtel’s Fall
+Ixtel's Fall
 Legendary Helmet - Level 3
 Metaphysical Labyrinth
 15 Health
@@ -1456,8 +1449,8 @@ Godly Conduit - Level 9
 Metaphysical Labyrinth ++
 250 Damage
 
-Spatiality’s Touch
- If this Trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+ If this Trait is applied more than once, this item's effects are nullified.
 
 +200% Health Regen
 +45% Mana Regen
@@ -1475,8 +1468,8 @@ Metaphysical Labyrinth ++
 1 Damage
 +25% Attack Speed
 
-Spatiality’s Touch
- If this Trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+ If this Trait is applied more than once, this item's effects are nullified.
 
 +156 Main Attack Damage
 +156 Spell Damage
@@ -1494,8 +1487,8 @@ Metaphysical Labyrinth ++
 101 Damage
 +25% Attack Speed
 
-Spatiality’s Touch
- If this Trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+ If this Trait is applied more than once, this item's effects are nullified.
 
 +18 Instinct
 +18 Dexterity
@@ -1514,9 +1507,8 @@ Godly Bow - Level 9
 Metaphysical Labyrinth ++
 41 Damage
 
-Spatiality’s Touch
- If this Trait is applied more than once, this item’s effects are nullified.
-
+Spatiality's Touch
+ If this Trait is applied more than once, this item's effects are nullified.
 
 +200% Spell Damage
 +200% Mana Steal
@@ -1532,9 +1524,8 @@ Godly Chestplate - Level 9
 Metaphysical Labyrinth ++
 -70 Health
 
-Spatiality’s Touch
- If this Trait is applied more than once, this item’s effects are nullified.
-
+Spatiality's Touch
+ If this Trait is applied more than once, this item's effects are nullified.
 
 +75% Walk Speed
 +5% Attack Speed
@@ -1550,8 +1541,8 @@ Godly Chestplate - Level 9
 Temple of the Forgotten God +
 100 Health
 
-Spatiality’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +1% Spell Damage
 +65% Mana Regen
@@ -1567,8 +1558,8 @@ Godly Conduit - Level 9
 Temple of the Forgotten God
 101 Damage
 
-Spatiality’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +105% Health Regen
 +105% Mana Regen
@@ -1597,7 +1588,7 @@ Death does not stop. It continues to hunt, wait, and ruin.
 +11% Destroying
 
 
-Grove’s Hymn
+Grove's Hymn
 Legendary Chestplate - Level 5
 R5 Dungeon
 50 Health
@@ -1632,7 +1623,7 @@ R5 Dungeon
 +50% Mana Steal
 +50% Spell Damage
 
-All can be swallowed in the depths. All can be lost in the gods’ gaze.
+All can be swallowed in the depths. All can be lost in the gods' gaze.
 
 -9% Travel Spell Cost
 
@@ -1646,12 +1637,12 @@ R5 Dungeon
 +30% Mana Steal
 +30% Lifesteal
 
-They say all is reflected in the void. But I know it is merely a pretender’s veil.
+They say all is reflected in the void. But I know it is merely a pretender's veil.
 
 +11% Destroying
 
 
-Endistic’s Hope
+Endistic's Hope
 Legendary Helmet - Level 5
 R5 Dungeon
 30 Health
@@ -1665,7 +1656,7 @@ He held the twin powers and shaped the world to his whims.
 +16% Recovery
 
 
-Enderae’s Despair
+Enderae's Despair
 Legendary Sword - Level 5
 R5 Dungeon
 71 Damage
@@ -1698,13 +1689,13 @@ R5 Dungeon
 
 -75 Health
 
-Void’s Suppression
-Nullifies the debuffs from one stack of Aspect’s Touch, or two pieces of gear with Aspect’s Touch, per level of Void’s Suppression.
+Void's Suppression
+Nullifies the debuffs from one stack of Aspect's Touch, or two pieces of gear with Aspect's Touch, per level of Void's Suppression.
 
 -20% Main Attack Damage
 -20% Spell Damage
 
-In the end, the very products of the god’s existence were turned against it to quench its power. The traces that remain can still be used for that purpose-if you can manage to harness them in the first place.
+In the end, the very products of the god's existence were turned against it to quench its power. The traces that remain can still be used for that purpose-if you can manage to harness them in the first place.
 
 
 Form
@@ -1712,8 +1703,8 @@ Godly Spear - Level 9
 Sepulchre of the Sentinel +
 50 Damage
 
-Structure’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Structure's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +100 Resilience
 +50% Mana Regen
@@ -1729,8 +1720,8 @@ Godly Staff - Level 9
 Sepulchre of the Sentinel +
 90 Damage
 
-Structure’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Structure's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +50 Resilience
 +90% Health Regen
@@ -1746,8 +1737,8 @@ Godly Dagger - Level 9
 Sepulchre of the Sentinel +
 1 Damage
 
-Structure’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Structure's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +80 Raw Main Attack Damage
 +80 Raw Spell Damage
@@ -1767,9 +1758,8 @@ Sepulchre of the Sentinel +
 200 Damage
 -40% Attack Speed
 
-Structure’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
-
+Structure's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +120 Resilience
 +155% Health Regen
@@ -1786,7 +1776,6 @@ The Ascendant Foundry
 5 Damage
 +900% Attack Speed
 
-
 +10 Dexterity
 -5% Hp
 
@@ -1798,9 +1787,8 @@ A metal barrel with a long handle attached. It has a warning label:
 
 Arcannon
 Legendary Crossbow - Level 6
-Warlock’s Laboratory
+Warlock's Laboratory
 100 Damage
-
 
 +11 Dexterity
 -50 Raw Main Attack Damage
@@ -1813,11 +1801,11 @@ Few thought combining volatile arcane magic and explosive gunpowder into a Chaos
 
 Havoc
 Godly Chestplate - Level 9
-Warlock’s Laboratory +
+Warlock's Laboratory +
 -50 Health
 
-Chaos’ Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Chaos' Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +50 Dexterity
 +50% Attack Speed
@@ -1837,7 +1825,7 @@ Nihilan Overworld - Regulatory Bypass
 +15% Walk Speed
 +16% Mana Steal
 
-It’s a dark hood that hides your face, and therefore identity.
+It's a dark hood that hides your face, and therefore identity.
 
 +10% Travel Speed
 +5% Grace
@@ -1944,14 +1932,14 @@ Fancier rings typically correlate to more important messages, and less scrupulou
 
 Illicit Glaive
 Rare Spear - Level 7
-Nihilan Overworld - The Smuggler’s Pass
+Nihilan Overworld - The Smuggler's Pass
 41 Damage
 
 +40% Main Attack Damage
 +10% Lifesteal
 +10% Walk Speed
 
-This glaive has enough barbs and serrations that they seem to be simple wear, but it’s still incredibly sharp.
+This glaive has enough barbs and serrations that they seem to be simple wear, but it's still incredibly sharp.
 
 +6% Travel Speed
 +13% Fortune
@@ -1959,14 +1947,14 @@ This glaive has enough barbs and serrations that they seem to be simple wear, bu
 
 Illicit Crossbow
 Rare Crossbow - Level 7
-Nihilan Overworld - The Smuggler’s Pass
+Nihilan Overworld - The Smuggler's Pass
 51 Damage
 
 +25% Spell Damage
 +18% Mana Regen
 -15% Hp Regen
 
-This crossbow uses illegal techniques to harvest a small portion of the bearer’s life energy, increasing its magical potential.
+This crossbow uses illegal techniques to harvest a small portion of the bearer's life energy, increasing its magical potential.
 
 +15% Travel Speed
 +20% Fortune
@@ -1975,7 +1963,7 @@ This crossbow uses illegal techniques to harvest a small portion of the bearer�
 
 Illicit Scythe
 Rare Scythe - Level 7
-Nihilan Overworld - The Smuggler’s Pass
+Nihilan Overworld - The Smuggler's Pass
 34 Damage
 +25% Attack Speed
 
@@ -1983,7 +1971,7 @@ Nihilan Overworld - The Smuggler’s Pass
 +20% Mana Steal
 +20% Lifesteal
 
-Its strikes are designed to replicate stealing a portion of the victim’s soul. You don’t want to know how it feels.
+Its strikes are designed to replicate stealing a portion of the victim's soul. You don't want to know how it feels.
 
 +5% Travel Speed
 +15% Fortune
@@ -1991,7 +1979,7 @@ Its strikes are designed to replicate stealing a portion of the victim’s soul.
 
 Illicit Canister
 Rare Conduit - Level 7
-Nihilan Overworld - The Smuggler’s Pass
+Nihilan Overworld - The Smuggler's Pass
 71 Damage
 
 +30% Spell Damage
@@ -1999,7 +1987,7 @@ Nihilan Overworld - The Smuggler’s Pass
 +20 Dexterity
 -105% Hp Regen
 
-It has an ingredients label, but it’s just a list of radioactive materials.
+It has an ingredients label, but it's just a list of radioactive materials.
 Wait a minute…
 
 -13% Travel Spell Cost
@@ -2009,14 +1997,14 @@ Wait a minute…
 
 Illicit Rite
 Rare Script - Level 7
-Nihilan Overworld - The Smuggler’s Pass
+Nihilan Overworld - The Smuggler's Pass
 101 Damage
 -50% Attack Speed
 
 +45% Spell Damage
 +50% Lifesteal
 
-It’s in a language you can’t read, but it seems to be some sort of twisted necrotic spell.
+It's in a language you can't read, but it seems to be some sort of twisted necrotic spell.
 
 +22% Fortune
 
@@ -2042,18 +2030,17 @@ Nihilan Overworld - Unarmed
 +25% Main Attack Damage
 +8% Attack Speed
 
-An insignia taken from a destroyed catapult, as a souvenir of that time you destroyed an entire army’s armory.
+An insignia taken from a destroyed catapult, as a souvenir of that time you destroyed an entire army's armory.
 
 +15% Bracing
 
 
 Call of the Void
 Mythical Sword - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Damage
 
-
-Oracle’s Fortitude
+Oracle's Fortitude
 You take no knockback, and deal twice as much.
 
 +15 Dexterity
@@ -2067,12 +2054,11 @@ And yet, this prison I chose, I forged, and within I shall remain.
 
 Time Fragment
 Mythical Dagger - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 44 Damage
 +10% Attack Speed
 
-
-Oracle’s Fortitude
+Oracle's Fortitude
 You take no knockback, and deal twice as much.
 
 +10 Instinct
@@ -2089,11 +2075,10 @@ It whispered in my mind, growing louder as the days passed.
 
 Void Chime
 Mythical Instrument - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Spell Damage
 
-
-Oracle’s Fortitude
+Oracle's Fortitude
 You take no knockback, and deal twice as much.
 
 When Played:
@@ -2109,15 +2094,14 @@ Others are never found.
 
 Omen
 Legendary Sword - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Damage
-
 
 +15 Instinct
 +18 Wisdom
 +25% Spell Damage
 
-Ever felt like something was bound to go wrong? Like the background music changed to a minor key, and you don’t know why?
+Ever felt like something was bound to go wrong? Like the background music changed to a minor key, and you don't know why?
 The biggest catastrophes are seen from the furthest off.
 
 +15% Bracing
@@ -2125,73 +2109,68 @@ The biggest catastrophes are seen from the furthest off.
 
 Harbinger
 Legendary Bow - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Damage
-
 
 +30% Mana Regen
 +25% Lifesteal
 -30% Movement Spell Cost
 -30% Walk Speed
 
-Time moves forward. Look where you’re going.
+Time moves forward. Look where you're going.
 
 +15% Bracing
 
 
 Portent
 Legendary Staff - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Damage
-
 
 +15 Instinct
 +10% Mana Regen
 +50% Healing
 
-But you already know what’s about to happen, don’t you?
-Even if you haven’t done it yet… you’ve probably heard of it from someone who has.
+But you already know what's about to happen, don't you?
+Even if you haven't done it yet… you've probably heard of it from someone who has.
 
 +15% Bracing
 
 
 Premonition
 Legendary Scythe - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Damage
-
 
 +30 Instinct
 +30% Mana Steal
 +20% Walk Speed
 -30% Mana Regen
 
-Some would kill for a glimpse at their future. They’re typically the ones that get killed by it.
+Some would kill for a glimpse at their future. They're typically the ones that get killed by it.
 
 +15% Bracing
 
 
 Augury
 Legendary Script - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 48 Damage
-
 
 +20 Instinct
 +32% Spell Damage
 +20% Lifesteal
 
 Why are prophecies made so unclear?
-Because it’s fun to watch you panic trying to figure them out, before inevitably succeeding.
+Because it's fun to watch you panic trying to figure them out, before inevitably succeeding.
 
 +15% Bracing
 
 
 Petrified Mask
 Rare Helmet - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 100 Health
-
 
 +15 Resilience
 +15% Mana Regen
@@ -2204,11 +2183,10 @@ It seems the weakness has been burned out of it.
 +15% Bracing
 
 
-Oracle’s Robes
+Oracle's Robes
 Rare Helmet - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 50 Health
-
 
 +20% Mana Regen
 +40% Spell Damage
@@ -2223,8 +2201,7 @@ Its magic remains unexpectedly potent.
 
 Exo Rig
 Legendary Leggings - Level 7
-Oracle’s Exilement
-
+Oracle's Exilement
 
 +10 Instinct
 +10 Resilience
@@ -2240,16 +2217,15 @@ In the years the Oracle spent in exile, they took to inventing, with a prowess f
 
 Flamewalker Soles
 Legendary Boots - Level 7
-Oracle’s Exilement
+Oracle's Exilement
 40 Health
-
 
 +10% Main Attack Damage
 +100% Walk Speed
 -50% Movement Spell Cost
 -300% Health Regen
 
-Designed to allow Flameborn to travel smoothly over Nihilan’s wide lava pools, instead of tediously swimming.
+Designed to allow Flameborn to travel smoothly over Nihilan's wide lava pools, instead of tediously swimming.
 Naturally, the systems advertised to provide “comfortable warmth even in chilly environments” are slightly less valued by anyone flammable.
 
 +100% Grace
@@ -2259,9 +2235,8 @@ Naturally, the systems advertised to provide “comfortable warmth even in chill
 
 Blazebreaker Cowl
 Legendary Helmet - Level 8
-Oracle’s Exilement +
+Oracle's Exilement +
 60 Health
-
 
 +15% Mana Regen
 +15% Health Regen
@@ -2276,39 +2251,36 @@ When humans came to Nihilan, they had to adapt.
 
 Petrified Plate
 Rare Chestplate - Level 8
-Oracle’s Exilement +
+Oracle's Exilement +
 100 Health
-
 
 +60% Spell Damage
 +20% Main Attack Damage
 -25% Walk Speed
 
-A piece of well-crafted plate armor. Crafted from wood, and scorched to what’s best described as stone.
+A piece of well-crafted plate armor. Crafted from wood, and scorched to what's best described as stone.
 
 +17% Bracing
 
 
-Sage’s Pants
+Sage's Pants
 Rare Leggings - Level 8
-Oracle’s Exilement +
+Oracle's Exilement +
 45 Health
-
 
 +30% Mana Regen
 +30% Health Regen
 -30% Main Attack Damage
 
-A pair of black-and-red pants. They’ve been worn so badly it seems best to wear their magic over your own.
+A pair of black-and-red pants. They've been worn so badly it seems best to wear their magic over your own.
 
 +26% Fortune
 
 
 Mecha Boots
 Mythical Boots - Level 8
-Oracle’s Exilement +
+Oracle's Exilement +
 76 Health
-
 
 +45% Mana Regen
 +45% Spell Damage
@@ -2316,7 +2288,7 @@ Oracle’s Exilement +
 -30% Walk Speed
 
 A mess of wires and metal plates, crackling subtly.
-They come up to your knees. They don’t seem very comfortable.
+They come up to your knees. They don't seem very comfortable.
 
 +50% Bracing
 -33% Travel Speed
@@ -2324,13 +2296,12 @@ They come up to your knees. They don’t seem very comfortable.
 
 Moment
 Godly Spear - Level 10
-Oracle’s Exilement ++
+Oracle's Exilement ++
 150 Damage
 +15% Attack Speed
 
-
-Temporality’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Temporality's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +25 Instinct
 +50% Spell Damage
@@ -2343,13 +2314,12 @@ Only briefly did I attempt to use the full extent of my newfound abilities.
 
 Instant
 Godly Crossbow - Level 10
-Oracle’s Exilement ++
+Oracle's Exilement ++
 2000 Damage
 -85% Attack Speed
 
-
-Temporality’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Temporality's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 -75% Mana Regen
 
@@ -2360,12 +2330,11 @@ Infinitely great things can only be achieved for an infinitely small amount of t
 
 Interval
 Godly Conduit - Level 10
-Oracle’s Exilement ++
+Oracle's Exilement ++
 50 Damage
 
-
-Temporality’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Temporality's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +30 Instinct
 +75% Walk Speed
@@ -2381,12 +2350,11 @@ And I asked myself,
 
 Eon
 Godly Dagger - Level 10
-Oracle’s Exilement ++
+Oracle's Exilement ++
 1 Damage
 
-
-Temporality’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Temporality's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +100 Instinct
 +100% Health Regen
@@ -2400,11 +2368,10 @@ If this Trait is applied more than once, this item’s effects are nullified.
 
 Chronologic
 Godly Jewelry - Level 10
-Oracle’s Exilement ++
+Oracle's Exilement ++
 
-
-Temporality’s Touch
-If this Trait is applied more than once, this item’s effects are nullified.
+Temporality's Touch
+If this Trait is applied more than once, this item's effects are nullified.
 
 +41 Instinct
 +41% Health Regen
@@ -2420,7 +2387,7 @@ Fate serves you at every step. The world quakes in the wake of your path. What w
 
 Wild Card
 Mythical Charm - Level 10
-Oracle’s Exilement ++
+Oracle's Exilement ++
 
 +15% Walk Speed
 +15% Attack Speed
@@ -2435,7 +2402,7 @@ You are the force of change. You will wreak yet more calamity upon this world, w
 +35% Fortune
 
 
-Sky Captain’s Bicorn
+Sky Captain's Bicorn
 Legendary Helmet - Level 8
 The Skybound Sea
 77 Health
@@ -2448,7 +2415,7 @@ In the skies they were born, in the skies they lived, and in the skies they were
 +17% Grace
 
 
-Sky Captain’s Spyglass
+Sky Captain's Spyglass
 Legendary Charm - Level 8
 The Skybound Sea
 
@@ -2467,11 +2434,10 @@ The Skybound Sea
 91 Damage
 -25% Attack Speed
 
-
 +25% Walkspeed
 +25% Mana Regen
 
-Pirates haven’t roamed the sky seas since Ether’s ascent, but the sailors of the Sea stay watchful all the same.
+Pirates haven't roamed the sky seas since Ether's ascent, but the sailors of the Sea stay watchful all the same.
 
 +17% Fortune
 +6% Travel Speed
@@ -2481,7 +2447,6 @@ Reactor Core
 Legendary Conduit - Level 8
 The Skybound Sea
 76 Damage
-
 
 +10% Walkspeed
 -20% Movement Spell Cost
@@ -2500,7 +2465,6 @@ The Skybound Sea
 Recoil
 Firing arrows from this crossbow will launch you backwards 5 blocks.
 
-
 +30 Resistance
 +45 Strength
 +100% Main Attack Damage
@@ -2510,11 +2474,10 @@ An eccentric engineer once attempted to make a crossbow capable of launching bol
 +17% Destroying
 
 
-Admiral’s Treachery
+Admiral's Treachery
 Legendary Dagger - Level 8
 The Skybound Sea
 100 Damage
-
 
 +50% Lifesteal
 -25% Hp
@@ -2524,25 +2487,23 @@ The king rewarded him with a title - and he repaid the favor with a knife.
 +17% Grace
 
 
-Regelen’s Wealth
+Regelen's Wealth
 Mythical Charm - Level 8
 The Skybound Sea
-
 
 +30% Mana Regen
 +10% Walkspeed
 
-Many initially underestimated the baron’s ambitious words. And yet, as the fleet grew and grew more, they would quickly recognize the error of their ways.
+Many initially underestimated the baron's ambitious words. And yet, as the fleet grew and grew more, they would quickly recognize the error of their ways.
 
 +35% Fortune
 -9% Recovery
 
 
-Ether’s Crown
+Ether's Crown
 Mythical Helmet - Level 8
 The Skybound Sea
 50 Health
-
 
 +30% Mana Regen
 +15% Spell Damage
@@ -2615,8 +2576,8 @@ Wormhole
 Godly Charm - Level 10
 Edge of Eternity +
 
-Spatiality’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+If this trait is applied more than once, this item's effects are nullified.
 Non-Dimensional
 Decreases spell costs of all movement spells proportionally to your walk speed.
 
@@ -2633,8 +2594,8 @@ Godly Sword - Level 10
 Edge of Eternity +
 100 Damage
 
-Gravitation’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Gravitation's Touch
+If this trait is applied more than once, this item's effects are nullified.
 Arcane Edge
 Mages are proficient with this weapon and can use it for spellcasting.
 
@@ -2652,8 +2613,8 @@ Godly Dagger - Level 10
 Edge of Eternity +
 100 Damage
 
-Gravitation’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Gravitation's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +250% Mana Steal
 +400% Lifesteal
@@ -2670,8 +2631,8 @@ Edge of Eternity +
 150 Damage
 +80% Attack Speed
 
-Spatiality’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +40% Main Attack Damage
 +40% Spell Damage
@@ -2688,10 +2649,10 @@ Godly Instrument - Level 10
 Edge of Eternity +
 150 Damage
 
-Spatiality’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Spatiality's Touch
+If this trait is applied more than once, this item's effects are nullified.
 Riftsinger
-Increases the duration of Cry Havoc’s stun by 40%.
+Increases the duration of Cry Havoc's stun by 40%.
 
 +120% Spell Damage
 +65% Mana Regen
@@ -2706,12 +2667,12 @@ A doorway opens to the black beyond.
 
 God Eater
 Mythical Dagger - Level 9
-Deity’s Downfall
+Deity's Downfall
 666 Damage
 -75% Attack Speed
 
-Antithesis’ Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Antithesis' Touch
+If this trait is applied more than once, this item's effects are nullified.
 Deicide
 Increases damage dealt to bosses and minibosses by 10%, stacking.
 
@@ -2727,7 +2688,7 @@ All things eventually meet an end. This crude dagger, fashioned from a splinter 
 
 Ashes of Imperium
 Mythical Staff - Level 9
-Deity’s Downfall
+Deity's Downfall
 101 Damage
 +50% Attack Speed
 
@@ -2739,9 +2700,9 @@ Only dimming coals are left now of the great flame that once burned. Yet even em
 +30% Recovery
 
 
-Thronemaster’s Gambit
+Thronemaster's Gambit
 Mythical Spear - Level 9
-Deity’s Downfall
+Deity's Downfall
 51 Damage
 
 +100 Raw Main Attack Damage
@@ -2755,14 +2716,14 @@ All pawns in the game have a role to play. Your choice is in what the role will 
 
 Siegebreaker
 Mythical Crossbow - Level 9
-Deity’s Downfall
+Deity's Downfall
 10000 Damage
 -99% Attack Speed
 
 +40 Strength
 -30% Walkspeed
 
-Mardek watched as the bolt, charged with immeasurable power, arced across the horizon, trailing coiling tendrils of power as it passed by. Whatever restraint they had formerly known faded in moments as it crashed into the citadel’s walls. In its place was desire.
+Mardek watched as the bolt, charged with immeasurable power, arced across the horizon, trailing coiling tendrils of power as it passed by. Whatever restraint they had formerly known faded in moments as it crashed into the citadel's walls. In its place was desire.
 
 +30% Bracing
 -10% Grace
@@ -2770,11 +2731,11 @@ Mardek watched as the bolt, charged with immeasurable power, arced across the ho
 
 Mantle of the King
 Mythical Chestplate - Level 9
-Deity’s Downfall
+Deity's Downfall
 100 Health
 
-Entropy’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Entropy's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +15% Spell Damage
 +15% Main Attack Damage
@@ -2790,11 +2751,11 @@ Uz waited to ascend to the throne.
 
 Greaves of the King
 Mythical Leggings - Level 9
-Deity’s Downfall
+Deity's Downfall
 80 Health
 
-Entropy’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Entropy's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +8 Wisdom
 +15% Spell Damage
@@ -2811,11 +2772,11 @@ Outside the walls of his tower, shouts echoed as Holy Inquisitors drove the amas
 
 Treads of the King
 Mythical Boots - Level 9
-Deity’s Downfall
+Deity's Downfall
 40 Health
 
-Entropy’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Entropy's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +22% Spell Damage
 +22% Main Attack Damage
@@ -2830,13 +2791,13 @@ Uz understood the severity of the atrocities he committed, and yet he still did 
 
 Crown of Sprouts and Snow
 Mythical Helmet - Level 9
-Deity’s Downfall
+Deity's Downfall
 180 Health
 
 +10% Health Regen
 +10% Mana Regen
 
-While battered Valkard was one of the first to kneel, the Earthborn of Deterra’s remote jungles were among the last.
+While battered Valkard was one of the first to kneel, the Earthborn of Deterra's remote jungles were among the last.
 
 +15% Recovery
 -9% Travel Spell Cost
@@ -2844,7 +2805,7 @@ While battered Valkard was one of the first to kneel, the Earthborn of Deterra�
 
 Crown of Sands and Seas
 Mythical Helmet - Level 9
-Deity’s Downfall
+Deity's Downfall
 120 Health
 
 +16 Dexterity
@@ -2858,7 +2819,7 @@ Although the mighty empires of Ixtel and Heluxenn stood defiant before him now, 
 
 Crown of Stones and Sparks
 Mythical Helmet - Level 9
-Deity’s Downfall
+Deity's Downfall
 80 Health
 
 +15% Walkspeed
@@ -2873,7 +2834,7 @@ Though the End held firm and the even bowed Stormborn of Attara still raged agai
 
 Crown of Smoke and Storms
 Mythical Helmet - Level 9
-Deity’s Downfall
+Deity's Downfall
 100 Health
 
 +20 Raw Main Attack Damage
@@ -2905,7 +2866,7 @@ The Inquisitor polished his blade in anticipation. The time for action was almos
 +20% Destroying
 
 
-Valmen’s Resolution
+Valmen's Resolution
 Mythical Crossbow - Level 9
 Bastion of the Divine
 200 Damage
@@ -2955,8 +2916,8 @@ Bastion of the Divine
 130 Damage
 +40% Attack Speed
 
-Power’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Power's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +30 Wisdom
 +80% Main Attack Damage
@@ -2972,8 +2933,8 @@ Godly Spear - Level 10
 Bastion of the Divine
 320 Damage
 
-Power’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Power's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +20% Walk Speed
 -30% Mana Regen
@@ -2990,15 +2951,15 @@ Bastion of the Divine
 100 Damage
 -60% Attack Speed
 
-Power’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Power's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +35 Wisdom
 +900% Spell Damage
 +180% Spell Cost
 -50% Mana Regen
 
-With enough strength behind one’s commands, their mortal word can be as divine as the highest of gods.
+With enough strength behind one's commands, their mortal word can be as divine as the highest of gods.
 
 +23% Travel Speed
 
@@ -3009,8 +2970,8 @@ Bastion of the Divine
 60 Damage
 +300% Attack Speed
 
-Power’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Power's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +20% Walk Speed
 +60% Main Attack Damage
@@ -3027,8 +2988,8 @@ Bastion of the Divine
 150 Damage
 +50% Attack Speed
 
-Power’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Power's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +20% Walk Speed
 +20% Spell Damage
@@ -3040,12 +3001,12 @@ A hub of energy was formed like nothing else ever seen before. With the power th
 -15% Recovery
 
 
-Devarien’s Bolt
+Devarien's Bolt
 Mythical Crossbow - Level 9
 Bastion of the Divine - Forbidden Ward
 30 Damage
 
-Soldier’s Grip
+Soldier's Grip
 Warriors are proficient with this weapon and can use it for spellcasting.
 
 +60 Main Attack Damage
@@ -3059,7 +3020,7 @@ Their sight was never the same after that betrayal.
 +20% Bracing
 
 
-Aurelion’s Promise
+Aurelion's Promise
 Mythical Dagger - Level 9
 Bastion of the Divine - Forbidden Ward
 120 Damage
@@ -3079,15 +3040,15 @@ Despite where he stood, rest would not come so easily just yet. Not while he had
 +15% Recovery
 
 
-Alchemist’s Legacy
+Alchemist's Legacy
 Mythical Sword - Level 9
 Bastion of the Divine - Forbidden Ward
 140 Damage
 
 Harmonious Ring
 Bards are proficient with this weapon and can use it for spellcasting.
-Entropy’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Entropy's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +10 Strength
 +50% Lifesteal
@@ -3128,7 +3089,7 @@ The Knife is said to subtly adapt to each wielder. You can feel it morph in your
 +1% Recovery
 
 
-Sevrien’s Slaughter
+Sevrien's Slaughter
 Mythical Scythe - Level 9
 Bastion of the Divine - Forbidden Ward
 90 Damage
@@ -3187,7 +3148,7 @@ Bastion of the Divine - Forbidden Ward
 -50 Raw Main Attack Damage
 -30% Healing
 
-“It’s useless to beat the odds when you still have the evens to deal with.”
+“It's useless to beat the odds when you still have the evens to deal with.”
 
 +10% Destroying
 +10% Travel Speed
@@ -3216,8 +3177,8 @@ Godly Chestplate - Level 10
 Worldly Foundations
 -100 Health
 
-Antithesis’ Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Antithesis' Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +130% Main Attack Damage
 +130% Spell Damage
@@ -3233,7 +3194,7 @@ Godly Chestplate - Level 10
 Worldly Foundations
 -1000 Health
 
-Unity’s Touch
+Unity's Touch
 All items touched by any Aspect have their effects nullified.
 
 +300 Raw Main Attack Damage
@@ -3251,8 +3212,8 @@ Godly Chestplate - Level 10
 Worldly Foundations
 +185 Health
 
-Entropy’s Touch
-If this trait is applied more than once, this item’s effects are nullified.
+Entropy's Touch
+If this trait is applied more than once, this item's effects are nullified.
 
 +175% Hp Regen
 -50% Main Attack Damage
@@ -3269,7 +3230,7 @@ Godly Sword - Level 10
 Worldly Foundations
 160 Damage
 
-Unity’s Touch
+Unity's Touch
 All items touched by any Aspect have their effects nullified.
 
 +40% Walk Speed
@@ -3289,7 +3250,7 @@ Godly Staff - Level 10
 Worldly Foundations
 140 Damage
 
-Unity’s Touch
+Unity's Touch
 All items touched by any Aspect have their effects nullified.
 
 +50 Dexterity
@@ -3310,7 +3271,7 @@ Worldly Foundations
 100 Damage
 +30% Attack Speed
 
-Unity’s Touch
+Unity's Touch
 All items touched by any Aspect have their effects nullified.
 Multishot
 Fires three arrows per Main Attack.
@@ -3329,7 +3290,7 @@ Worldly Foundations
 111 Damage
 +50% Attack Speed
 
-Unity’s Touch
+Unity's Touch
 All items touched by any Aspect have their effects nullified.
 
 +60% Health Regen
@@ -3345,7 +3306,7 @@ Godly Script - Level 10
 Worldly Foundations
 150 Damage
 
-Unity’s Touch
+Unity's Touch
 All items touched by any Aspect have their effects nullified.
 
 +40 Strength
@@ -3354,7 +3315,7 @@ All items touched by any Aspect have their effects nullified.
 +70% Spell Damage
 +80% Mana Regen
 
-When one’s knowledge transcends the Greater Plane itself, what will they see in the beyond? The greatest of wonders-or the most horrifying of terrors?
+When one's knowledge transcends the Greater Plane itself, what will they see in the beyond? The greatest of wonders-or the most horrifying of terrors?
 
 -19% Travel Spell Cost
 
