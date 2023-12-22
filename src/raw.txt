@@ -5,17 +5,15 @@ Starter Set
 
 It's made out of pure wood.
 Looks like it will give only splinters.
-
-
+[END]
 Rusted Dagger
-Common Dagger -  Level 1
+Common Dagger - Level 1
 Starter Set
 10 Damage
 +20% Attack Speed
 
 It's a little rusty, but it will do the job.
-
-
+[END]
 Stone-Cut Wand
 Common Wand - Level 1
 Starter Set
@@ -25,8 +23,7 @@ Starter Set
 
 It's made out of pure stone, but it's as light as a feather.
 Seems like an anomaly.
-
-
+[END]
 Decrepit Bow
 Common Bow - Level 1
 Starter Set
@@ -35,8 +32,7 @@ Starter Set
 
 Certainly not perfect, but it has its intentions in mind.
 Good for rapidly landing shots.
-
-
+[END]
 Old Lute
 Common Instrument - Level 1
 Starter Set
@@ -47,8 +43,7 @@ When played:
 
 Most of the wood's rotted away by now.
 You can still pretend that the strings aren't broken, though.
-
-
+[END]
 Typical Hat
 Common Helmet - Level 1
 Deterran Overworld
@@ -57,16 +52,14 @@ Deterran Overworld
 +17% Mana Regen
 
 Commonly worn by pampa farmers. It's quite good for keeping the sun out of your eyes.
-
-
+[END]
 Typical Tunic
 Common Chestplate - Level 1
 Deterran Overworld
 20 Health
 
 One way to easily differentiate a Geopolian nobleman and peasant is by their attire. This cloth tunic might not be as lavish as silk, but it's certainly more sturdy instead.
-
-
+[END]
 Typical Pants
 Common Leggings - Level 1
 Deterran Overworld
@@ -75,8 +68,7 @@ Deterran Overworld
 +8% Health Regen
 
 The Earthborn of Deterra have long been renowned for their excellent textile designs. Although this pair of trousers is of human make, the influence of their style seems to show nonetheless.
-
-
+[END]
 Typical Shoes
 Common Boots - Level 1
 Deterran Overworld
@@ -85,8 +77,7 @@ Deterran Overworld
 +15% Walk Speed
 
 Just a simple pair of hardened leather boots can often allow for easy traversal even through the swampy Deterran pampas.
-
-
+[END]
 Cask of Uz Booze
 Uncommon Charm - Level 1
 Deterran Overworld - Geopolis Markets
@@ -99,8 +90,7 @@ A small barrel of a popular Eastern drink.
 Has a sweet, intoxicating smell.
 
 +5% Travel Speed
-
-
+[END]
 Balsa Blade
 Uncommon Sword - Level 1
 Deterran Overworld
@@ -113,8 +103,7 @@ Deterran Overworld
 
 +20% Travel Speed
 -10% Bracing
-
-
+[END]
 Eggscalibur
 Uncommon Sword - Level 1
 Deterran Overworld
@@ -128,8 +117,7 @@ Deterran Overworld
 A Geopolis folktale tells of a blacksmith's attempt to create the most deadly sword known to man, forging a blade completely made from magically infused unrefined lodestone. However, while drunk, he accidentally welded a frying pan onto the hilt instead.
 
 +10% Recovery
-
-
+[END]
 Thumbtack
 Uncommon Dagger - Level 1
 Deterran Overworld
@@ -141,8 +129,7 @@ Deterran Overworld
 As it turns out from this decidedly ordinary pin, anything can be made into a weapon if you hit with it hard enough.
 
 +10% Fortune
-
-
+[END]
 Spruce Wand
 Uncommon Wand - Level 1
 Deterran Overworld
@@ -156,8 +143,7 @@ Hewn from an ancient tree in the highest mountains.
 Okay, fine, it's just a regular stick.
 
 +7% Bracing
-
-
+[END]
 Loose Longbow
 Uncommon Bow - Level 1
 Deterran Overworld
@@ -169,8 +155,7 @@ Deterran Overworld
 This longbow wasn't cared for well, and now the string's loose. On the plus side, it doesn't take much effort to draw, but it also doesn't have much force anymore.
 
 -6% Travel Spell Cost
-
-
+[END]
 Drumstick
 Uncommon Instrument - Level 1
 Deterran Overworld
@@ -184,8 +169,7 @@ This wooden stick, while nicely polished, seems to be missing the drums it goes 
 
 +12% Travel Speed
 -8% Fortune
-
-
+[END]
 Trainer's Lance
 Uncommon Spear - Level 1
 Deterran Overworld
@@ -197,8 +181,7 @@ Deterran Overworld
 It's a very excellent wooden replica of a spear. It'll work as one, but no guarantees about how well.
 
 +7% Bracing
-
-
+[END]
 Oddity
 Uncommon Conduit - Level 1
 Deterran Overworld
@@ -210,8 +193,7 @@ You're not sure what this is, but it works.
 
 +5% Fortune
 -3% Travel Spell Cost
-
-
+[END]
 Studded Crossbow
 Uncommon Crossbow - Level 1
 Deterran Overworld
@@ -225,8 +207,7 @@ Maybe if you pretend they help, they will?
 
 +20% Bracing
 -13% Travel Speed
-
-
+[END]
 Bent Sword
 Uncommon Scythe - Level 1
 Deterran Overworld
@@ -238,8 +219,7 @@ Deterran Overworld
 Somewhere, some blacksmith sold their apprentice's first try at a sword as scrap metal. Now it's here, for some reason.
 
 +10% Recovery
-
-
+[END]
 Folk Song
 Uncommon Script - Level 1
 Deterran Overworld
@@ -254,8 +234,7 @@ A bunch of lyrics strung together in such a way that it effectively creates an i
 “Well, the Candle went to the Woven Stars, and asked to sing a song…”
 
 +7% Grace
-
-
+[END]
 Crude Steel Headdress
 Uncommon Helmet - Level 1
 Deterran Overworld
@@ -266,8 +245,7 @@ Deterran Overworld
 Advertised to contain enough magical power to make warriors wearing it unstoppable in combat. In actuality, it's just very uncomfortable.
 
 +7% Destroying
-
-
+[END]
 T-Shirt
 Uncommon Chestplate - Level 1
 Deterran Overworld
@@ -279,8 +257,7 @@ Deterran Overworld
 Upon it are the words “Made in Attara.”
 
 7% Destroying
-
-
+[END]
 Fancy Pants
 Uncommon Leggings - Level 1
 Deterran Overworld
@@ -293,8 +270,7 @@ Inlaid with gold, these pants have also been enchanted to be supernaturally ligh
 With everything put together, they're really just well-made pants.
 
 +10% Fortune
-
-
+[END]
 Stone-Shaped Boots
 Uncommon Boots - Level 1
 Deterran Overworld
@@ -307,8 +283,7 @@ Deterran Overworld
 Sturdy boots with the soles removed. They seem to be intended for Earthborn wearers.
 
 +10% Recovery
-
-
+[END]
 Yggdrasil
 Uncommon Helmet - Level 1
 Deterran Overworld - Geopolis
@@ -321,8 +296,7 @@ Deterran Overworld - Geopolis
 This tree has been here for centuries. It's uncertain how it came to be so big.
 
 +7% Bracing
-
-
+[END]
 Gaff
 Rare Spear - Level 1
 Deterran Overworld
@@ -335,8 +309,7 @@ Where did this even come from?
 
 +20% Bracing
 -20% Recovery
-
-
+[END]
 Harvest Season
 Rare Scythe - Level 1
 Deterran Overworld
@@ -349,8 +322,7 @@ Some poor farmer lost this at just the wrong time, and now you're using it for b
 
 +20% Recovery
 -10% Fortune
-
-
+[END]
 Wind Focus
 Rare Conduit - Level 1
 Deterran Overworld
@@ -363,8 +335,7 @@ The wind keeps blowing from behind you, even when you turn around…
 This would be excellent for keeping the smoke out of your eyes at a campfire.
 
 -6% Travel Spell Cost
-
-
+[END]
 Mini Ballista
 Rare Crossbow - Level 1
 Deterran Overworld
@@ -378,8 +349,7 @@ At least it works.
 
 +15% Bracing
 -8% Travel Speed
-
-
+[END]
 Vocalize
 Rare Script - Level 1
 Deterran Overworld
@@ -393,8 +363,7 @@ A short section from an ancient musical, written in a tongue long forgotten.
 Completely by accident, it contains no consonants.
 
 +10% Recovery
-
-
+[END]
 Coils of the Crown
 Legendary Helmet - Level 1
 Deterran Overworld - Geopolis
@@ -407,8 +376,7 @@ Deterran Overworld - Geopolis
 The Archon, like he swore to do, never razed the ziggurat. He simply built the new cathedral atop it instead.
 
 +7% Bracing
-
-
+[END]
 Mother's Defilement
 Legendary Chestplate - Level 1
 Deterran Overworld - The Mother Mountain
@@ -420,8 +388,7 @@ Deterran Overworld - The Mother Mountain
 Do you see her blood spill from the ground? Do you feel her wrath rage through the soil?
 
 +10% Fortune
-
-
+[END]
 Unbound Hunger
 Legendary Leggings - Level 1
 Deterran Overworld - Thrashvine Jungle
@@ -433,8 +400,7 @@ Deterran Overworld - Thrashvine Jungle
 The land is not what it used to be. Something else has taken its body for its own.
 
 +10% Recovery
-
-
+[END]
 Roots of Iron
 Legendary Boots - Level 1
 Deterran Overworld - Deepest Delvings
@@ -448,8 +414,7 @@ The land knows it-new trees now sink tendrils into the soil. Grasping roots that
 
 +20% Bracing
 -13% Grace
-
-
+[END]
 Unworldly Visor
 Mythical Helmet - Level 10
 Deterran Overworld - Mirah
@@ -460,8 +425,7 @@ Deterran Overworld - Mirah
 I have made a great mistake.
 
 +35% Fortune
-
-
+[END]
 Unworldly Suit
 Mythical Chestplate - Level 10
 Deterran Overworld - Mirah
@@ -474,8 +438,7 @@ We cannot be trusted with power. We will always be tempted, lured by its promise
 
 +15% Fortune
 +13% Bracing
-
-
+[END]
 Unworldly Guards
 Mythical Leggings - Level 10
 Deterran Overworld - Mirah
@@ -487,8 +450,7 @@ Deterran Overworld - Mirah
 Even I cannot escape it. It calls to me, whispering endlessly. It tells me of a way to fix it all.
 
 +23% Bracing
-
-
+[END]
 Unworldly Boots
 Mythical Boots - Level 10
 Deterran Overworld - Mirah
@@ -501,8 +463,7 @@ Deterran Overworld - Mirah
 I know I cannot trust it. I know I cannot give in. But every night, I lie awake nonetheless, inching ever closer to madness.
 
 +23% Bracing
-
-
+[END]
 Unworldly Amulet
 Mythical Jewelry - Level 10
 Deterran Overworld - Mirah
@@ -514,8 +475,7 @@ Deterran Overworld - Mirah
 No. We cannot be trusted with power, yes, but we do not need to. After all, you cannot tempt something that has no desire for it in the first place.
 
 +23% Bracing
-
-
+[END]
 Unworldly Core
 Mythical Charm - Level 10
 Deterran Overworld - Mirah
@@ -527,8 +487,7 @@ And so, it shall begin. Vessels to be forged. Vessels for the future-for my hope
 
 +13% Bracing
 +10% Destroying
-
-
+[END]
 Earthbrine's Drillblade
 Rare Sword - Level 1
 Deepest Delvings
@@ -540,8 +499,7 @@ Not all pickaxes are meant to carve only rock.
 
 +2% Travel Speed
 +5% Bracing
-
-
+[END]
 Obsidian-Hewn Sickles
 Rare Daggers - Level 1
 Deepest Delvings
@@ -553,8 +511,7 @@ Deepest Delvings
 Buried so far below, they craved every memory of the surface with every rasping breath. The sun's light-or perhaps, the invaders' blood.
 
 +7% Destroying
-
-
+[END]
 Lodestone Channeler
 Rare Conduit - Level 1
 Deepest Delvings
@@ -565,8 +522,7 @@ Deepest Delvings
 Lodestone is most powerful in its raw form. It also happens to be the most dangerous.
 
 +7% Destroying
-
-
+[END]
 Rockblaster
 Rare Crossbow - Level 1
 Deepest Delvings
@@ -577,8 +533,7 @@ Deepest Delvings
 When Church engineers failed to develop a safe dynamite mining method, one miner decided to take matters into their own hands.
 
 +7% Destroying
-
-
+[END]
 Iron String
 Rare Instrument - Level 1
 Deepest Delvings
@@ -591,8 +546,7 @@ When Played:
 Whether the iron strikes stone or flesh, the tune continues.
 
 +7% Bracing
-
-
+[END]
 Lodestone Circlet
 Rare Jewelry - Level 1
 Deepest Delvings
@@ -603,8 +557,7 @@ Deepest Delvings
 An enterprising jewelist once decided to put carved lodestone gems in rings. She soon regretted it after seeing for herself its conductive properties.
 
 +7% Destroying
-
-
+[END]
 Shaman's Necklace
 Rare Jewelry - Level 1
 Overgrown Monument
@@ -615,8 +568,7 @@ Overgrown Monument
 Long-buried and even longer forgotten.
 
 +10% Fortune
-
-
+[END]
 Ter'reka's Ruin
 Rare Chestplate - Level 1
 Overgrown Monument
@@ -627,8 +579,7 @@ Overgrown Monument
 Even stone sprouts life.
 
 +7% Grace
-
-
+[END]
 Jungle's Fury
 Rare Bow - Level 1
 Overgrown Monument
@@ -641,8 +592,7 @@ Overgrown Monument
 Wrath of the most primordial form.
 
 +7% Destroying
-
-
+[END]
 Shaman's Stormcaller
 Rare Staff - Level 1
 Overgrown Monument
@@ -655,8 +605,7 @@ Overgrown Monument
 Flowers bloom on fallen trees in the storm's wake.
 
 +7% Grace
-
-
+[END]
 March of the Roots
 Legendary Boots - Level 1
 Overgrown Monument
@@ -669,8 +618,7 @@ Overgrown Monument
 The Jungle walks.
 
 +7% Bracing
-
-
+[END]
 Terra Sanguis
 Legendary Leggings - Level 1
 Overgrown Monument
@@ -682,8 +630,7 @@ Overgrown Monument
 When the earth bleeds, all who tread it shall too.
 
 +7% Travel Speed
-
-
+[END]
 Jaguarskin Cape
 Legendary Chestplate - Level 1
 Overgrown Monument
@@ -695,8 +642,7 @@ Overgrown Monument
 Carry their strength and unleash their fury.
 
 +10% Fortune
-
-
+[END]
 Consumed Glaive
 Legendary Spear - Level 1
 Overgrown Monument
@@ -711,8 +657,7 @@ Mages are proficient with this weapon and can use it for spellcasting.
 Though sorcery and iron tend to oppose, the strength of the jungle has managed to overtake the now-rusted steel of this Churchman's blade all the same.
 
 -6% Travel Spell Cost
-
-
+[END]
 Shadow of the Mountains
 Legendary Scythe - Level 1
 Overgrown Monument
@@ -724,8 +669,7 @@ Overgrown Monument
 Even great heights were no match for the Thrashvine's hunger. Vine and root grappled and sank tendrils in stone and soil alike, extending its domain beyond the peaks.
 
 +7% Travel Speed
-
-
+[END]
 Vinebound Greatbow
 Legendary Bow - Level 1
 Overgrown Monument
@@ -738,8 +682,7 @@ Overgrown Monument
 Cuttings of the Godroots turned out to be excellent materials for weaponsmithing. The only difficulty was harvesting them in the first place.
 
 +7% Bracing
-
-
+[END]
 Sage's Carvings
 Legendary Script - Level 1
 Overgrown Monument
@@ -751,8 +694,7 @@ Overgrown Monument
 While the jungle's wrath turned all clay to dust, some of the Earthborn tribes found methods to carry their pleas across regardless. This bamboo rod, inscribed with runes, is proof of their genius.
 
 +10% Fortune
-
-
+[END]
 Lifeblessed Everbloom
 Legendary Jewelry - Level 1
 Overgrown Monument
@@ -765,8 +707,7 @@ Overgrown Monument
 When all other forms of life are taken, the remnant flourishes.
 
 +10% Recovery
-
-
+[END]
 Amethyst Claymore
 Legendary Sword - Level 1
 Overgrown Monument - Secret
@@ -789,8 +730,7 @@ Overgrown Monument +
 The smallest of saplings can grow into the mightiest of trees.
 
 +8% Bracing
-
-
+[END]
 Thrashvine's Fury
 Legendary Bow - Level 5
 Overgrown Monument - Crafted
@@ -804,8 +744,7 @@ Overgrown Monument - Crafted
 The Jungle never stops to rest.
 
 +11% Travel Speed
-
-
+[END]
 Jackkoh's Stormcaller
 Legendary Staff - Level 5
 Overgrown Monument - Crafted
@@ -818,8 +757,7 @@ Overgrown Monument - Crafted
 From the corpse of the old world grows one anew.
 
 +16% Recovery
-
-
+[END]
 Law of the Jungle
 Mythical Leggings - Level 7
 Overgrown Monument +++
@@ -832,8 +770,7 @@ Overgrown Monument +++
 Only those who still remain can thrive.
 
 +15% Destroying
-
-
+[END]
 Seeker's Broken Mask
 Mythical Charm - Level 7
 Overgrown Monument +++
@@ -846,8 +783,7 @@ Overgrown Monument +++
 The remnant of a dream long shattered. In the ruin, only hope remains.
 
 +22% Recovery
-
-
+[END]
 Insatiable
 Godly Spear - Level 9
 Overgrown Monument #
@@ -863,8 +799,7 @@ If this trait is applied more than once, this item's effects are nullified.
 Growth does not stop. It will always keep consuming.
 
 +30% Fortune
-
-
+[END]
 Assimilate
 Godly Conduit - Level 9
 Overgrown Monument #
@@ -880,8 +815,7 @@ If this trait is applied more than once, this item's effects are nullified.
 All will become one. All will become whole.
 
 +30% Fortune
-
-
+[END]
 Hunger
 Godly Dagger - Level 9
 Overgrown Monument #
@@ -897,8 +831,7 @@ If this trait is applied more than once, this item's effects are nullified.
 To the starved, nothing is beyond their desperation.
 
 +20% Travel Speed
-
-
+[END]
 Monstrous
 Godly Crossbow - Level 9
 Overgrown Monument #
@@ -915,8 +848,7 @@ If this trait is applied more than once, this item's effects are nullified.
 When growth reaches new heights, fear will be redefined once more.
 
 +20% Bracing
-
-
+[END]
 Vitalize
 Godly Chestplate - Level 9
 Overgrown Monument #
@@ -934,8 +866,7 @@ Power refreshes. And then it leaves you craving more.
 
 +15% Recovery
 +10% Bracing
-
-
+[END]
 Snow Cap
 Common Helmet - Level 2
 Valkard Overworld
@@ -944,22 +875,19 @@ Valkard Overworld
 +16% Mana Regen
 
 Keeps your ears warm.
-
-
+[END]
 Snow Tunic
 Common Chestplate - Level 2
 Valkard Overworld
 25 Health
-
-
+[END]
 Snow Pants
 Common Leggings - Level 2
 Valkard Overworld
 19 Health
 
 +8% Health Regen
-
-
+[END]
 Snow Boots
 Common Boots - Level 2
 Valkard Overworld
@@ -968,16 +896,14 @@ Valkard Overworld
 +15% Walk Speed
 
 Keeps your toes warm.
-
-
+[END]
 Infantry's Sword
 Common Sword - Level 2
 Valkard Overworld
 16 Damage
 
 This sword's been kept in good condition. It's standard issue for strong troops found expendable.
-
-
+[END]
 Scout's Knife
 Common Dagger - Level 2
 Valkard Overworld
@@ -985,8 +911,7 @@ Valkard Overworld
 +30% Attack Speed
 
 This knife's been kept in good condition. It's standard issue for swift troops found expendable.
-
-
+[END]
 Archer's Bow
 Common Bow - Level 2
 Valkard Overworld
@@ -994,8 +919,7 @@ Valkard Overworld
 -10% Attack Speed
 
 This bow's been kept in good condition. It's standard issue for keen troops found expendable.
-
-
+[END]
 Wizard's Staff
 Common Wand - Level 2
 Valkard Overworld
@@ -1004,8 +928,7 @@ Valkard Overworld
 +10% Spell Damage
 
 This staff's been kept in good condition. It's standard issue for studious troops found expendable.
-
-
+[END]
 Commander's Trumpet
 Common Instrument - Level 2
 Valkard Overworld
@@ -1014,8 +937,7 @@ Valkard Overworld
 +30% Spell Damage
 
 This horn's been kept in good condition. It's standard issue for inventive troops found expendable.
-
-
+[END]
 Homeland
 Rare Chestplate - Level 2
 The Last Command
@@ -1028,8 +950,7 @@ The Last Command
 I'll fight the storm with all my breath. I'll stand alone against the winds.
 
 +7% Bracing
-
-
+[END]
 Dragonscale Links
 Rare Leggings - Level 2
 The Last Command
@@ -1042,8 +963,7 @@ Even when alloyed and processed, simple iron links pale in comparison to a drago
 
 +17% Bracing
 +10% Travel Spell Cost
-
-
+[END]
 Stormstriders
 Rare Boots - Level 2
 The Last Command
@@ -1055,8 +975,7 @@ The Last Command
 Insulation is the best way to survive a winter storm. These boots, faintly aglow with magical firelight, come with that bonus themselves.
 
 +7% Travel Speed
-
-
+[END]
 Hearthflame Stave
 Rare Staff - Level 2
 The Last Command
@@ -1069,8 +988,7 @@ The Last Command
 The torches of the Keep burn through day and night. The warmth that runs through your veins keeps the cold away.
 
 +11% Recovery
-
-
+[END]
 Frostwreath Crescent
 Rare Scythe - Level 2
 The Last Command
@@ -1084,8 +1002,7 @@ The Last Command
 The cold claims all eventually. This weathered torch, now carrying a blade of accumulated ice, is no exception.
 
 +11% Fortune
-
-
+[END]
 Mythbane
 Rare Spear - Level 2
 The Last Command
@@ -1097,8 +1014,7 @@ The Last Command
 Only True Ice can quench the flames that burn within a dragon's heart. Unfortunately for the smith who crafted this spear, however, the dragons in question had long since disappeared.
 
 +11% Fortune
-
-
+[END]
 Frozen Flames
 Rare Bow - Level 2
 The Last Command
@@ -1111,8 +1027,7 @@ The Last Command
 This magical longbow, capable of firing arrows that burn with an impossibly cold flame, is but another example of the wonders the Keep once held within.
 
 +7% Grace
-
-
+[END]
 Sigil of the Sage
 Legendary Charm - Level 2
 The Last Command
@@ -1124,8 +1039,7 @@ The Last Command
 Dragons were the mark of the Hearth Sage. Although many claimed that they represented the warmth of the Keep, the truth lay much deeper within.
 
 +11% Recovery
-
-
+[END]
 Aedelian's Pursuit
 Legendary Boots - Level 2
 The Last Command
@@ -1141,8 +1055,7 @@ I cannot give up. Not while that I hunt still roams this place.
 
 +20% Travel Speed
 -13% Bracing
-
-
+[END]
 Warmth of Memory
 Legendary Chestplate - Level 2
 The Last Command
@@ -1155,8 +1068,7 @@ The Last Command
 No matter where I may walk, the hearth is where my heart lies.
 
 +11% Recovery
-
-
+[END]
 Failure of the Forlorn
 Legendary Helmet - Level 2
 The Last Command
@@ -1168,8 +1080,7 @@ The Last Command
 It is too late. The land dies, and I have lost.
 
 +7% Bracing
-
-
+[END]
 Sacrificial Dagger
 Rare Dagger - Level 2
 Factory of Flesh and Soul
@@ -1182,8 +1093,7 @@ Factory of Flesh and Soul
 Spill their blood and take their spirits.
 
 +11% Fortune
-
-
+[END]
 Spirit's Judgement
 Rare Crossbow - Level 2
 Factory of Flesh and Soul
@@ -1195,8 +1105,7 @@ Factory of Flesh and Soul
 The ones who had done this to them were the first to be consumed.
 
 +7% Grace
-
-
+[END]
 Knight's Halberd
 Rare Crossbow - Level 2
 Factory of Flesh and Soul
@@ -1208,8 +1117,7 @@ Factory of Flesh and Soul
 They watched in horror as their very honor was crushed by their own doings.
 
 +7% Bracing
-
-
+[END]
 Cry of the Condemned
 Legendary Helmet - Level 2
 Factory of Flesh and Soul
@@ -1221,8 +1129,7 @@ Factory of Flesh and Soul
 Their prayers were never answered.
 
 +7% Travel Speed
-
-
+[END]
 Bloodbinder Scepter
 Legendary Staff - Level 4
 Factory of Flesh and Soul +
@@ -1234,8 +1141,7 @@ Factory of Flesh and Soul +
 They would never truly forget the atrocities they saw.
 
 +14% Recovery
-
-
+[END]
 Sacrifice's Robes
 Legendary Helmet - Level 4
 Factory of Flesh and Soul +
@@ -1247,8 +1153,7 @@ Factory of Flesh and Soul +
 The cloth never remained white for long.
 
 +9% Bracing
-
-
+[END]
 Inquisitor's Judgement
 Legendary Crossbow - Level 6
 Factory of Flesh and Soul - Crafted
@@ -1261,8 +1166,7 @@ Factory of Flesh and Soul - Crafted
 Not a single trace must remain. Not a single word must be whispered.
 
 +14% Recovery
-
-
+[END]
 Bloodmage's Dagger
 Legendary Dagger - Level 6
 Factory of Flesh and Soul - Crafted
@@ -1274,8 +1178,7 @@ Factory of Flesh and Soul - Crafted
 Not a single trace must remain. Not a single word must be whispered.
 
 +9% Grace
-
-
+[END]
 Forsaken Halberd
 Legendary Spear - Level 6
 Factory of Flesh and Soul - Crafted
@@ -1288,8 +1191,7 @@ Factory of Flesh and Soul - Crafted
 They could not leave their past behind. For them, there would be no escape.
 
 -9% Travel Spell Cost
-
-
+[END]
 Oridel's Ambition
 Mythical Charm - Level 8
 Factory of Flesh and Soul ++
@@ -1302,8 +1204,7 @@ His vision would be the downfall of them all.
 
 -20% Travel Spell Cost
 -9% Recovery
-
-
+[END]
 Twisted
 Godly Bow - Level 9
 Factory of Flesh and Soul +++
@@ -1318,8 +1219,7 @@ If this Trait is applied more than once, this item's effects are nullified.
 They tore apart the bindings of reality itself, ripped it from its source and defiled it with their hungering touches.
 
 -17% Travel Spell Cost
-
-
+[END]
 Sacrifice
 Godly Spear - Level 9
 Factory of Flesh and Soul +++
@@ -1334,8 +1234,7 @@ If this Trait is applied more than once, this item's effects are nullified.
 They wallowed in blood. They drowned in it. And yet the price still had to be paid.
 
 +20% Destroying
-
-
+[END]
 Unchained
 Godly Staff - Level 9
 Factory of Flesh and Soul +++
@@ -1351,8 +1250,7 @@ If this Trait is applied more than once, this item's effects are nullified.
 They could almost swear that it was the work of a god.
 
 +20% Travel Speed
-
-
+[END]
 Abomination
 Godly Scythe - Level 9
 Factory of Flesh and Soul +++
@@ -1370,8 +1268,7 @@ It warped the very spirits of all those who remained. Those who had created it w
 
 +15% Recovery
 +10% Bracing
-
-
+[END]
 Soulborn
 Godly Chestplate - Level 9
 Factory of Flesh and Soul +++
@@ -1387,8 +1284,7 @@ They wanted to forge a power beyond their imagination…and they succeeded.
 +100% Grace
 -90% Recovery
 -20% Bracing
-
-
+[END]
 Ixtel's Fall
 Legendary Helmet - Level 3
 Metaphysical Labyrinth
@@ -1401,8 +1297,7 @@ Metaphysical Labyrinth
 They saw their empire crumble within a matter of moments.
 
 +8% Bracing
-
-
+[END]
 Bloom
 Legendary Bow - Level 3
 Metaphysical Labyrinth
@@ -1414,8 +1309,7 @@ Metaphysical Labyrinth
 Even the corpses of kings grow flowers over time.
 
 +12% Recovery
-
-
+[END]
 Sarcophagus
 Legendary Chestplate - Level 3
 Metaphysical Labyrinth
@@ -1427,8 +1321,7 @@ Metaphysical Labyrinth
 Within the stone they lay eternal.
 
 +12% Fortune
-
-
+[END]
 Downfall
 Legendary Chestplate - Level 5
 Metaphysical Labyrinth +
@@ -1442,8 +1335,7 @@ Buried was the city and buried too were his hopes.
 
 +20% Bracing
 -9% Travel Speed
-
-
+[END]
 Distortion
 Godly Conduit - Level 9
 Metaphysical Labyrinth ++
@@ -1460,8 +1352,7 @@ Spatiality's Touch
 Tiny flaws become gaping chasms within the matter of moments.
 
 +20% Travel Speed
-
-
+[END]
 Warped
 Godly Scythe - Level 9
 Metaphysical Labyrinth ++
@@ -1479,8 +1370,7 @@ And with a single command, all that you know becomes alien.
 
 +30% Bracing
 -10% Grace
-
-
+[END]
 Curvature
 Godly Sword - Level 9
 Metaphysical Labyrinth ++
@@ -1500,8 +1390,7 @@ Spatiality's Touch
 All things can be reshaped. In the hands of those skilled enough, reality is no exception.
 
 -17% Travel Spell Cost
-
-
+[END]
 Ripple
 Godly Bow - Level 9
 Metaphysical Labyrinth ++
@@ -1517,8 +1406,7 @@ Spatiality's Touch
 The smallest drop of water can swiftly lead to the most monstrous tide.
 
 +20% Grace
-
-
+[END]
 Traversal
 Godly Chestplate - Level 9
 Metaphysical Labyrinth ++
@@ -1534,8 +1422,7 @@ Yet the miracles that he performed now were overshadowed all the same by the fea
 
 +25% Travel Speed
 -5% Grace
-
-
+[END]
 Alter
 Godly Chestplate - Level 9
 Temple of the Forgotten God +
@@ -1551,8 +1438,7 @@ They touched the threads of the very world and wove both miracles and horrors wi
 
 +50% Recovery
 -20% Fortune
-
-
+[END]
 Metamorphosis
 Godly Conduit - Level 9
 Temple of the Forgotten God
@@ -1569,8 +1455,7 @@ Nearly every aspect of their former self was stripped away and remade. Only veng
 
 +12% Recovery
 +12% Grace
-
-
+[END]
 Deathly Touch
 Rare Scythe - Level 5
 End Overworld
@@ -1586,8 +1471,7 @@ Damage over time you deal is tripled.
 Death does not stop. It continues to hunt, wait, and ruin.
 
 +11% Destroying
-
-
+[END]
 Grove's Hymn
 Legendary Chestplate - Level 5
 R5 Dungeon
@@ -1599,8 +1483,7 @@ R5 Dungeon
 We have long forgotten the words they sang. And we may never know again.
 
 +16% Recovery
-
-
+[END]
 Roar of the Dragon
 Legendary Bow - Level 5
 R5 Dungeon
@@ -1613,8 +1496,7 @@ R5 Dungeon
 There are things that sleep older than even this world itself. And those things now stir.
 
 +16% Fortune
-
-
+[END]
 Echoes in Eternity
 Legendary Staff - Level 5
 R5 Dungeon
@@ -1626,8 +1508,7 @@ R5 Dungeon
 All can be swallowed in the depths. All can be lost in the gods' gaze.
 
 -9% Travel Spell Cost
-
-
+[END]
 Abyssal Moon
 Legendary Scythe - Level 5
 R5 Dungeon
@@ -1640,8 +1521,7 @@ R5 Dungeon
 They say all is reflected in the void. But I know it is merely a pretender's veil.
 
 +11% Destroying
-
-
+[END]
 Endistic's Hope
 Legendary Helmet - Level 5
 R5 Dungeon
@@ -1654,8 +1534,7 @@ R5 Dungeon
 He held the twin powers and shaped the world to his whims.
 
 +16% Recovery
-
-
+[END]
 Enderae's Despair
 Legendary Sword - Level 5
 R5 Dungeon
@@ -1668,8 +1547,7 @@ R5 Dungeon
 Yet he would not be able to rest- for they would take him all the same.
 
 +11% Bracing
-
-
+[END]
 Harbinger Ballista
 Mythical Bow - Level 5
 R5 Dungeon
@@ -1681,8 +1559,7 @@ R5 Dungeon
 Enderae stepped into the newly created Realm. For now, while such wonders laid ahead, he would not have to confront the truth.
 
 +11% Bracing
-
-
+[END]
 Eternal Emptiness
 Legendary Charm - Level 5
 R5 Dungeon
@@ -1696,8 +1573,7 @@ Nullifies the debuffs from one stack of Aspect's Touch, or two pieces of gear wi
 -20% Spell Damage
 
 In the end, the very products of the god's existence were turned against it to quench its power. The traces that remain can still be used for that purpose-if you can manage to harness them in the first place.
-
-
+[END]
 Form
 Godly Spear - Level 9
 Sepulchre of the Sentinel +
@@ -1713,8 +1589,7 @@ If this trait is applied more than once, this item's effects are nullified.
 Become. Adapt. Expand. With limitless possibilities, shape yourself and all around you to perfection.
 
 +20% Bracing
-
-
+[END]
 Constitution
 Godly Staff - Level 9
 Sepulchre of the Sentinel +
@@ -1730,8 +1605,7 @@ If this trait is applied more than once, this item's effects are nullified.
 He saw all, from the most minute particles to the vastness of the world around him. It was not enough.
 
 +20% Bracing
-
-
+[END]
 Order
 Godly Dagger - Level 9
 Sepulchre of the Sentinel +
@@ -1750,8 +1624,7 @@ And beyond it, in that world  within worlds, spanned the truth.
 Perfect, untarnished, inescapable structure.
 
 +20% Bracing
-
-
+[END]
 Assembly
 Godly Crossbow - Level 9
 Sepulchre of the Sentinel +
@@ -1768,8 +1641,7 @@ Within, he was remade. Flesh gave way to stone and blood gave way to power.
 
 +15% Recovery
 +10% Bracing
-
-
+[END]
 Uzi-B
 Legendary Crossbow - Level 6
 The Ascendant Foundry
@@ -1783,8 +1655,7 @@ A metal barrel with a long handle attached. It has a warning label:
 “Caution: Point Only at Enemy Eyes.”
 
 +13% Destroying
-
-
+[END]
 Arcannon
 Legendary Crossbow - Level 6
 Warlock's Laboratory
@@ -1797,8 +1668,7 @@ Warlock's Laboratory
 Few thought combining volatile arcane magic and explosive gunpowder into a Chaos-powered rifle to be a particularly sane idea. But the Keeper was never a particularly sane woman.
 
 +13% Destroying
-
-
+[END]
 Havoc
 Godly Chestplate - Level 9
 Warlock's Laboratory +
@@ -1815,8 +1685,7 @@ Insert lore here
 
 +15% Fortune
 +10% Destroying
-
-
+[END]
 Night-Ash Hood
 Rare Helmet - Level 7
 Nihilan Overworld - Regulatory Bypass
@@ -1829,8 +1698,7 @@ It's a dark hood that hides your face, and therefore identity.
 
 +10% Travel Speed
 +5% Grace
-
-
+[END]
 Night-Ash Tunic
 Rare Chestplate - Level 7
 Nihilan Overworld - Regulatory Bypass
@@ -1842,8 +1710,7 @@ Nihilan Overworld - Regulatory Bypass
 A black tunic for blending into night skies and unlit walls.
 
 -18% Travel Spell Cost
-
-
+[END]
 Night-Ash Garb
 Rare Leggings - Level 7
 Nihilan Overworld - Regulatory Bypass
@@ -1855,8 +1722,7 @@ Nihilan Overworld - Regulatory Bypass
 Few natural things are black, and you see now that the armor is a very dark grey.
 
 +15% Travel Speed
-
-
+[END]
 Night-Ash Soles
 Rare Boots - Level 7
 Nihilan Overworld - Regulatory Bypass
@@ -1872,8 +1738,7 @@ These near-silent shoes are a frequent choice for thieves and skulkers with enou
 
 +50% Jump Height
 -20% Bracing
-
-
+[END]
 Envoy Shirt
 Rare Chestplate - Level 7
 Nihilan Overworld - Mysterious Missive
@@ -1885,8 +1750,7 @@ A reasonably light, but thoroughly reinforced shirt.
 
 +20% Travel Speed
 -8% Fortune
-
-
+[END]
 Envoy Pants
 Rare Leggings - Level 7
 Nihilan Overworld - Mysterious Missive
@@ -1899,8 +1763,7 @@ A reasonably light, but thoroughly reinforced pair of pants.
 
 +10% Travel Speed
 +5% Bracing
-
-
+[END]
 Envoy Boots
 Rare Boots - Level 7
 Nihilan Overworld - Mysterious Missive
@@ -1914,8 +1777,7 @@ A reasonably light, but thoroughly reinforced pair of boots.
 
 +10% Travel Speed
 +5% Grace
-
-
+[END]
 Envoy Signet
 Rare Jewelry - Level 7
 Nihilan Overworld - Mysterious Missive
@@ -1928,8 +1790,7 @@ Fancier rings typically correlate to more important messages, and less scrupulou
 
 +10% Travel Speed
 -6% Travel Spell Cost
-
-
+[END]
 Illicit Glaive
 Rare Spear - Level 7
 Nihilan Overworld - The Smuggler's Pass
@@ -1943,8 +1804,7 @@ This glaive has enough barbs and serrations that they seem to be simple wear, bu
 
 +6% Travel Speed
 +13% Fortune
-
-
+[END]
 Illicit Crossbow
 Rare Crossbow - Level 7
 Nihilan Overworld - The Smuggler's Pass
@@ -1959,8 +1819,7 @@ This crossbow uses illegal techniques to harvest a small portion of the bearer's
 +15% Travel Speed
 +20% Fortune
 -20% Recovery
-
-
+[END]
 Illicit Scythe
 Rare Scythe - Level 7
 Nihilan Overworld - The Smuggler's Pass
@@ -1975,8 +1834,7 @@ Its strikes are designed to replicate stealing a portion of the victim's soul. Y
 
 +5% Travel Speed
 +15% Fortune
-
-
+[END]
 Illicit Canister
 Rare Conduit - Level 7
 Nihilan Overworld - The Smuggler's Pass
@@ -1993,8 +1851,7 @@ Wait a minute…
 -13% Travel Spell Cost
 +25% Fortune
 -25% Recovery
-
-
+[END]
 Illicit Rite
 Rare Script - Level 7
 Nihilan Overworld - The Smuggler's Pass
@@ -2007,8 +1864,7 @@ Nihilan Overworld - The Smuggler's Pass
 It's in a language you can't read, but it seems to be some sort of twisted necrotic spell.
 
 +22% Fortune
-
-
+[END]
 Warmthsbane Locket
 Rare Jewelry - Level 7
 Nihilan Overworld - Warmthsbane
@@ -2021,8 +1877,7 @@ A locket containing a leaf of warmthsbane, as a souvenir of that time you made a
 
 +10% Recovery
 +12% Fortune
-
-
+[END]
 Militant Token
 Rare Charm - Level 7
 Nihilan Overworld - Unarmed
@@ -2033,8 +1888,7 @@ Nihilan Overworld - Unarmed
 An insignia taken from a destroyed catapult, as a souvenir of that time you destroyed an entire army's armory.
 
 +15% Bracing
-
-
+[END]
 Call of the Void
 Mythical Sword - Level 7
 Oracle's Exilement
@@ -2050,8 +1904,7 @@ You take no knockback, and deal twice as much.
 And yet, this prison I chose, I forged, and within I shall remain.
 
 +15% Grace
-
-
+[END]
 Time Fragment
 Mythical Dagger - Level 7
 Oracle's Exilement
@@ -2071,8 +1924,7 @@ Yet it took me weeks to realize what it was. My plan had failed.
 It whispered in my mind, growing louder as the days passed.
 
 +15% Grace
-
-
+[END]
 Void Chime
 Mythical Instrument - Level 7
 Oracle's Exilement
@@ -2090,8 +1942,7 @@ Some things cannot be replaced.
 Others are never found.
 
 +15% Destroying
-
-
+[END]
 Omen
 Legendary Sword - Level 7
 Oracle's Exilement
@@ -2105,8 +1956,7 @@ Ever felt like something was bound to go wrong? Like the background music change
 The biggest catastrophes are seen from the furthest off.
 
 +15% Bracing
-
-
+[END]
 Harbinger
 Legendary Bow - Level 7
 Oracle's Exilement
@@ -2120,8 +1970,7 @@ Oracle's Exilement
 Time moves forward. Look where you're going.
 
 +15% Bracing
-
-
+[END]
 Portent
 Legendary Staff - Level 7
 Oracle's Exilement
@@ -2135,8 +1984,7 @@ But you already know what's about to happen, don't you?
 Even if you haven't done it yet… you've probably heard of it from someone who has.
 
 +15% Bracing
-
-
+[END]
 Premonition
 Legendary Scythe - Level 7
 Oracle's Exilement
@@ -2150,8 +1998,7 @@ Oracle's Exilement
 Some would kill for a glimpse at their future. They're typically the ones that get killed by it.
 
 +15% Bracing
-
-
+[END]
 Augury
 Legendary Script - Level 7
 Oracle's Exilement
@@ -2165,8 +2012,7 @@ Why are prophecies made so unclear?
 Because it's fun to watch you panic trying to figure them out, before inevitably succeeding.
 
 +15% Bracing
-
-
+[END]
 Petrified Mask
 Rare Helmet - Level 7
 Oracle's Exilement
@@ -2181,8 +2027,7 @@ An old wooden mask, scarred by fire.
 It seems the weakness has been burned out of it.
 
 +15% Bracing
-
-
+[END]
 Oracle's Robes
 Rare Helmet - Level 7
 Oracle's Exilement
@@ -2197,8 +2042,7 @@ Its magic remains unexpectedly potent.
 
 +25% Fortune
 -2% Grace
-
-
+[END]
 Exo Rig
 Legendary Leggings - Level 7
 Oracle's Exilement
@@ -2213,8 +2057,7 @@ In the years the Oracle spent in exile, they took to inventing, with a prowess f
 +50% Grace
 -40% Bracing
 -28% Travel Speed
-
-
+[END]
 Flamewalker Soles
 Legendary Boots - Level 7
 Oracle's Exilement
@@ -2231,8 +2074,7 @@ Naturally, the systems advertised to provide “comfortable warmth even in chill
 +100% Grace
 -50% Fortune
 -50% Destroying
-
-
+[END]
 Blazebreaker Cowl
 Legendary Helmet - Level 8
 Oracle's Exilement +
@@ -2247,8 +2089,7 @@ When humans came to Nihilan, they had to adapt.
 +100% Grace
 -50% Bracing
 +33% Travel Spell Cost
-
-
+[END]
 Petrified Plate
 Rare Chestplate - Level 8
 Oracle's Exilement +
@@ -2261,8 +2102,7 @@ Oracle's Exilement +
 A piece of well-crafted plate armor. Crafted from wood, and scorched to what's best described as stone.
 
 +17% Bracing
-
-
+[END]
 Sage's Pants
 Rare Leggings - Level 8
 Oracle's Exilement +
@@ -2275,8 +2115,7 @@ Oracle's Exilement +
 A pair of black-and-red pants. They've been worn so badly it seems best to wear their magic over your own.
 
 +26% Fortune
-
-
+[END]
 Mecha Boots
 Mythical Boots - Level 8
 Oracle's Exilement +
@@ -2292,8 +2131,7 @@ They come up to your knees. They don't seem very comfortable.
 
 +50% Bracing
 -33% Travel Speed
-
-
+[END]
 Moment
 Godly Spear - Level 10
 Oracle's Exilement ++
@@ -2310,8 +2148,7 @@ If this Trait is applied more than once, this item's effects are nullified.
 Only briefly did I attempt to use the full extent of my newfound abilities.
 
 +23% Bracing
-
-
+[END]
 Instant
 Godly Crossbow - Level 10
 Oracle's Exilement ++
@@ -2326,8 +2163,7 @@ If this Trait is applied more than once, this item's effects are nullified.
 Infinitely great things can only be achieved for an infinitely small amount of time.
 
 -15% Travel Spell Cost
-
-
+[END]
 Interval
 Godly Conduit - Level 10
 Oracle's Exilement ++
@@ -2346,8 +2182,7 @@ And I asked myself,
 “How long must this, must I, last?”
 
 +23% Travel Speed
-
-
+[END]
 Eon
 Godly Dagger - Level 10
 Oracle's Exilement ++
@@ -2364,8 +2199,7 @@ If this Trait is applied more than once, this item's effects are nullified.
 “Until the end.”
 
 +23% Bracing
-
-
+[END]
 Chronologic
 Godly Jewelry - Level 10
 Oracle's Exilement ++
@@ -2383,8 +2217,7 @@ Fate serves you at every step. The world quakes in the wake of your path. What w
 
 +41% Grace
 -18% Destroying
-
-
+[END]
 Wild Card
 Mythical Charm - Level 10
 Oracle's Exilement ++
@@ -2400,8 +2233,7 @@ Oracle's Exilement ++
 You are the force of change. You will wreak yet more calamity upon this world, whether you halt or continue. The choice is yours.
 
 +35% Fortune
-
-
+[END]
 Sky Captain's Bicorn
 Legendary Helmet - Level 8
 The Skybound Sea
@@ -2413,8 +2245,7 @@ The Skybound Sea
 In the skies they were born, in the skies they lived, and in the skies they were laid to rest.
 
 +17% Grace
-
-
+[END]
 Sky Captain's Spyglass
 Legendary Charm - Level 8
 The Skybound Sea
@@ -2426,8 +2257,7 @@ The Skybound Sea
 No mortal eye can see in the realm of the gods.
 
 +17% Grace
-
-
+[END]
 Aviator Harpoon
 Legendary Spear - Level 8
 The Skybound Sea
@@ -2441,8 +2271,7 @@ Pirates haven't roamed the sky seas since Ether's ascent, but the sailors of the
 
 +17% Fortune
 +6% Travel Speed
-
-
+[END]
 Reactor Core
 Legendary Conduit - Level 8
 The Skybound Sea
@@ -2454,8 +2283,7 @@ The Skybound Sea
 These islands are kept afloat by means even unknown to us. We only hope whoever came before us was wise enough to ensure they always are.
 
 +17% Travel Speed
-
-
+[END]
 Shipsinker Ballista
 Legendary Crossbow - Level 8
 The Skybound Sea
@@ -2472,8 +2300,7 @@ Firing arrows from this crossbow will launch you backwards 5 blocks.
 An eccentric engineer once attempted to make a crossbow capable of launching bolts with such force that they would sink the ships they pierced with a single shot. Unfortunately, they did not consider the consequences of such a feat.
 
 +17% Destroying
-
-
+[END]
 Admiral's Treachery
 Legendary Dagger - Level 8
 The Skybound Sea
@@ -2485,8 +2312,7 @@ The Skybound Sea
 The king rewarded him with a title - and he repaid the favor with a knife.
 
 +17% Grace
-
-
+[END]
 Regelen's Wealth
 Mythical Charm - Level 8
 The Skybound Sea
@@ -2498,8 +2324,7 @@ Many initially underestimated the baron's ambitious words. And yet, as the fleet
 
 +35% Fortune
 -9% Recovery
-
-
+[END]
 Ether's Crown
 Mythical Helmet - Level 8
 The Skybound Sea
@@ -2512,8 +2337,7 @@ And so he set out, the world trembling beneath his steps. A crown upon his head,
 
 +11% Fortune
 +10% Grace
-
-
+[END]
 Stormsurge
 Mythical Bow - Level 8
 Edge of Eternity
@@ -2526,8 +2350,7 @@ Edge of Eternity
 The wrath that coursed through the skies turned steel to pitch.
 
 +17% Travel Speed
-
-
+[END]
 Will of the God-King
 Mythical Scythe - Level 8
 Edge of Eternity
@@ -2541,8 +2364,7 @@ Edge of Eternity
 Oaths were sworn in mass, binding pledges made in moments. Within a month, his army numbered twenty thousand strong.
 
 +17% Grace
-
-
+[END]
 Divine Eye
 Mythical Conduit - Level 8
 Edge of Eternity
@@ -2555,8 +2377,7 @@ Edge of Eternity
 Under his gaze they sail the sky; under his gaze they fight and die.
 
 +26% Fortune
-
-
+[END]
 Riftmaker
 Mythical Sword - Level 8
 Edge of Eternity
@@ -2570,8 +2391,7 @@ Edge of Eternity
 Yet unbeknownst to even him, his actions merely served to meet the ends of another.
 
 +17% Destroying
-
-
+[END]
 Wormhole
 Godly Charm - Level 10
 Edge of Eternity +
@@ -2587,8 +2407,7 @@ Decreases spell costs of all movement spells proportionally to your walk speed.
 When space and time themselves are unbound, the end is soon to come.
 
 +23% Travel Speed
-
-
+[END]
 Horizon
 Godly Sword - Level 10
 Edge of Eternity +
@@ -2606,8 +2425,7 @@ Mages are proficient with this weapon and can use it for spellcasting.
 They ravaged nations to escape it. They laid waste to worlds to hide from it. And when nothing was left, they found it.
 
 +7% Travel Speed
-
-
+[END]
 Covenant
 Godly Dagger - Level 10
 Edge of Eternity +
@@ -2623,8 +2441,7 @@ If this trait is applied more than once, this item's effects are nullified.
 If greed and power sway the mind, broken bonds will only widen further.
 
 +35% Fortune
-
-
+[END]
 Fabric
 Godly Bow - Level 10
 Edge of Eternity +
@@ -2642,8 +2459,7 @@ If this trait is applied more than once, this item's effects are nullified.
 Everything can be torn. Everything can be exploited.
 
 -19% Travel Spell Cost
-
-
+[END]
 Metaphysical
 Godly Instrument - Level 10
 Edge of Eternity +
@@ -2663,8 +2479,7 @@ A doorway opens to the black beyond.
 
 +50% Jump Height
 -10% Grace
-
-
+[END]
 God Eater
 Mythical Dagger - Level 9
 Deity's Downfall
@@ -2684,8 +2499,7 @@ All things eventually meet an end. This crude dagger, fashioned from a splinter 
 
 +30% Destroying
 -15% Recovery
-
-
+[END]
 Ashes of Imperium
 Mythical Staff - Level 9
 Deity's Downfall
@@ -2698,8 +2512,7 @@ Deity's Downfall
 Only dimming coals are left now of the great flame that once burned. Yet even embers hold power.
 
 +30% Recovery
-
-
+[END]
 Thronemaster's Gambit
 Mythical Spear - Level 9
 Deity's Downfall
@@ -2712,8 +2525,7 @@ Deity's Downfall
 All pawns in the game have a role to play. Your choice is in what the role will be.
 
 +20% Bracing
-
-
+[END]
 Siegebreaker
 Mythical Crossbow - Level 9
 Deity's Downfall
@@ -2727,8 +2539,7 @@ Mardek watched as the bolt, charged with immeasurable power, arced across the ho
 
 +30% Bracing
 -10% Grace
-
-
+[END]
 Mantle of the King
 Mythical Chestplate - Level 9
 Deity's Downfall
@@ -2747,8 +2558,7 @@ Uz waited to ascend to the throne.
 
 +15% Fortune
 +10% Bracing
-
-
+[END]
 Greaves of the King
 Mythical Leggings - Level 9
 Deity's Downfall
@@ -2768,8 +2578,7 @@ Outside the walls of his tower, shouts echoed as Holy Inquisitors drove the amas
 
 +15% Fortune
 +10% Destroying
-
-
+[END]
 Treads of the King
 Mythical Boots - Level 9
 Deity's Downfall
@@ -2787,8 +2596,7 @@ Uz understood the severity of the atrocities he committed, and yet he still did 
 
 +20% Fortune
 +7% Travel Speed
-
-
+[END]
 Crown of Sprouts and Snow
 Mythical Helmet - Level 9
 Deity's Downfall
@@ -2801,8 +2609,7 @@ While battered Valkard was one of the first to kneel, the Earthborn of Deterra's
 
 +15% Recovery
 -9% Travel Spell Cost
-
-
+[END]
 Crown of Sands and Seas
 Mythical Helmet - Level 9
 Deity's Downfall
@@ -2815,8 +2622,7 @@ Although the mighty empires of Ixtel and Heluxenn stood defiant before him now, 
 
 +10% Destroying
 +10% Travel Speed
-
-
+[END]
 Crown of Stones and Sparks
 Mythical Helmet - Level 9
 Deity's Downfall
@@ -2830,8 +2636,7 @@ Though the End held firm and the even bowed Stormborn of Attara still raged agai
 
 +10% Destroying
 +10% Bracing
-
-
+[END]
 Crown of Smoke and Storms
 Mythical Helmet - Level 9
 Deity's Downfall
@@ -2845,8 +2650,7 @@ The ambitious Regelese were quick to assist in the conquest of the Realm. Under 
 
 +15% Fortune
 +10% Grace
-
-
+[END]
 Godbane Greatsword
 Mythical Sword - Level 9
 Bastion of the Divine
@@ -2864,8 +2668,7 @@ Increases damage dealt to minibosses and bosses by 10%, stacking.
 The Inquisitor polished his blade in anticipation. The time for action was almost upon him.
 
 +20% Destroying
-
-
+[END]
 Valmen's Resolution
 Mythical Crossbow - Level 9
 Bastion of the Divine
@@ -2880,8 +2683,7 @@ Bastion of the Divine
 Though the Inquisitorium had truly fallen low, while he still stood, it would not die just yet.
 
 +20% Destroying
-
-
+[END]
 Gears of the Usurper
 Mythical Boots - Level 9
 Bastion of the Divine
@@ -2894,8 +2696,7 @@ Bastion of the Divine
 Even the Inquisitors feared for the fate of the Bastion. Something else entirely held dominion over it now.
 
 +20% Bracing
-
-
+[END]
 Energizing Flame
 Mythical Charm - Level 9
 Bastion of the Divine
@@ -2908,8 +2709,7 @@ Bastion of the Divine
 No flame, no matter how bright, can replace the warmth of a heart. Yet this will serve just well enough for the purpose at hand.
 
 +20% Travel Speed
-
-
+[END]
 Enlightenment
 Godly Script - Level 10
 Bastion of the Divine
@@ -2926,8 +2726,7 @@ If this trait is applied more than once, this item's effects are nullified.
 The Inquisitorium never feared death. Instead, they rather feared the consequences of it.
 
 +35% Recovery
-
-
+[END]
 Wrath
 Godly Spear - Level 10
 Bastion of the Divine
@@ -2943,8 +2742,7 @@ If this trait is applied more than once, this item's effects are nullified.
 Fell armies beneath your blade. Crush kingdoms in your grasp. Your rage reaches to the ends of the world.
 
 +35% Recovery
-
-
+[END]
 Judgement
 Godly Scythe - Level 10
 Bastion of the Divine
@@ -2962,8 +2760,7 @@ If this trait is applied more than once, this item's effects are nullified.
 With enough strength behind one's commands, their mortal word can be as divine as the highest of gods.
 
 +23% Travel Speed
-
-
+[END]
 Nexus
 Godly Conduit - Level 10
 Bastion of the Divine
@@ -2980,8 +2777,7 @@ If this trait is applied more than once, this item's effects are nullified.
 While energy cannot be so simply tamed, it can yet still be channeled. With boundless power surging through your fingertips, harness it to its maximum potential.
 
 +23% Travel Speed
-
-
+[END]
 Omnipotent
 Godly Bow - Level 10
 Bastion of the Divine
@@ -2999,8 +2795,7 @@ A hub of energy was formed like nothing else ever seen before. With the power th
 
 +50% Jump Height
 -15% Recovery
-
-
+[END]
 Devarien's Bolt
 Mythical Crossbow - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3018,8 +2813,7 @@ Warriors are proficient with this weapon and can use it for spellcasting.
 Their sight was never the same after that betrayal.
 
 +20% Bracing
-
-
+[END]
 Aurelion's Promise
 Mythical Dagger - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3038,8 +2832,7 @@ Despite where he stood, rest would not come so easily just yet. Not while he had
 
 +10% Travel Speed
 +15% Recovery
-
-
+[END]
 Alchemist's Legacy
 Mythical Sword - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3057,8 +2850,7 @@ If this trait is applied more than once, this item's effects are nullified.
 Though he believed he had mastered death during his years, his once-mighty repute was still swept away in little time all the same.
 
 +30% Recovery
-
-
+[END]
 Summer Armor
 Mythical Chestplate - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3070,8 +2862,7 @@ Bastion of the Divine - Forbidden Ward
 They cast off this mantle with the fall of Xalabraxis. Winter fell not only on Valkard, but on their soul as well.
 
 +30% Recovery
-
-
+[END]
 Autumn Knife
 Mythical Dagger - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3087,8 +2878,7 @@ The Knife is said to subtly adapt to each wielder. You can feel it morph in your
 +17% Destroying
 +2% Grace
 +1% Recovery
-
-
+[END]
 Sevrien's Slaughter
 Mythical Scythe - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3106,8 +2896,7 @@ Either way, it was a genocide.
 +50% Destroying
 +3% Bracing
 -100% Recovery
-
-
+[END]
 Enigma
 Mythical Dagger - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3132,8 +2921,7 @@ HpSfbeUifCbdlxbztCbsJotufbePgEpjohUijt
 +4% Grace
 +4% Bracing
 -4% Travel Spell Cost
-
-
+[END]
 Flux Battery
 Mythical Conduit - Level 9
 Bastion of the Divine - Forbidden Ward
@@ -3152,8 +2940,7 @@ Bastion of the Divine - Forbidden Ward
 
 +10% Destroying
 +10% Travel Speed
-
-
+[END]
 Otherworld
 Mythical Jewelry - Level 10
 Worldly Foundations
@@ -3170,8 +2957,7 @@ A tin ring set with light blue crystal. When it hits the light just right, you c
 
 +25% Fortune
 +10% Recovery
-
-
+[END]
 The Void
 Godly Chestplate - Level 10
 Worldly Foundations
@@ -3187,8 +2973,7 @@ All things end the same way. Even the mightiest of gods crumble to dust.
 
 -15% Travel Spell Cost
 +6% Grace
-
-
+[END]
 Armageddon
 Godly Chestplate - Level 10
 Worldly Foundations
@@ -3205,8 +2990,7 @@ In the face of such a thing, even the possibility of controlling it seems a fool
 
 +50% Jump Height
 -15% Fortune
-
-
+[END]
 The End
 Godly Chestplate - Level 10
 Worldly Foundations
@@ -3223,8 +3007,7 @@ Yet life meets death in turn. The cycle repeats, opposites locked in an eternal 
 
 +30% Travel Speed
 -10% Recovery
-
-
+[END]
 Eternity
 Godly Sword - Level 10
 Worldly Foundations
@@ -3243,8 +3026,7 @@ I have seen so much, traveled so far, lived for so long. And I know that there i
 
 +10% Fortune
 +25% Recovery
-
-
+[END]
 Radiance
 Godly Staff - Level 10
 Worldly Foundations
@@ -3263,8 +3045,7 @@ We call ourselves gods, but are still bound by the laws of this world.
 
 +10% Grace
 +20% Recovery
-
-
+[END]
 Multitude
 Godly Bow - Level 10
 Worldly Foundations
@@ -3282,8 +3063,7 @@ Fires three arrows per Main Attack.
 Within the endless bounds of the Plane, there is unlimited potential-both incomparable beauty and unfathomable devastation.
 
 +23% Travel Speed
-
-
+[END]
 Genesis
 Godly Scythe - Level 10
 Worldly Foundations
@@ -3299,8 +3079,7 @@ All items touched by any Aspect have their effects nullified.
 Despite what some would state, we do not create. We only corrupt.
 
 +23% Bracing
-
-
+[END]
 Revelation
 Godly Script - Level 10
 Worldly Foundations
@@ -3318,4 +3097,4 @@ All items touched by any Aspect have their effects nullified.
 When one's knowledge transcends the Greater Plane itself, what will they see in the beyond? The greatest of wonders-or the most horrifying of terrors?
 
 -19% Travel Spell Cost
-
+[END]
